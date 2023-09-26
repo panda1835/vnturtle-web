@@ -1,0 +1,19 @@
+{
+  "bbox": {
+    "height": 723,
+    "left": 459,
+    "top": 545,
+    "width": 1021
+  },
+  "image_size": {
+    "height": 1500,
+    "width": 2000
+  },
+  "predictions": {
+    "Cuora bourreti": 0.02,
+    "Cuora mouhotii": 0.59,
+    "Cuora picturata": 0.02,
+    "Geoemyda spengleri": 0.2,
+    "Mauremys mutica": 0.16
+  }
+}
