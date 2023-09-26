@@ -424,6 +424,24 @@
         "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
         "threat": "Hunting, local consumption and habitat loss"
     },
+    "Pelodiscus sinensis": {
+        "scientific_name": "Pelodiscus sinensis",
+        "primary_name": "Chinese softshell turtle",
+        "iucn": "VU",
+        "sdvn": "",
+        "law": "Luật lâm nghiệp (2017)",
+        "secondary_name": "Ba ba trơn",
+        "distribution": "Trung Quốc, Việt Nam, Đài Loan, Hàn Quốc, Nga, và Nhật Bản",
+        "habitat": "sông, suối, hồ, ao và các khu vực đất ngập nước",
+        "reference_images": [
+            "images/reference_images/Pelodiscus_sinensis/Pelodiscus_sinensis_thumbnail.jpg",
+            "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg"
+        ],
+        "identification_images": ["images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg"],
+        "fun_fact": "Text here",
+        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
+        "threat": "Sắn bắt, tiêu thụ tại địa phương và mất sinh cảnh sống"
+    },
     "Rafetus swinhoei": {
         "scientific_name": "Rafetus swinhoei",
         "primary_name": "Swinhoe's Softshell Turtle",
