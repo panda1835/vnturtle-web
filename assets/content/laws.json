@@ -1,0 +1,86 @@
+{
+    "CITES": {
+        "I": {
+            "full_name": {
+                "vi": "Phụ lục I Công ước CITES",
+                "en": "CITES Appendix I"
+            },
+            "brief_description": {
+                "vi": "Giải thích CITES I",
+                "en": "CITES I brief_description"
+            },
+            "hex_color": "#B53522"
+        },
+        "II": {
+            "full_name": {
+                "vi": "Phụ lục II Công ước CITES",
+                "en": "CITES Appendix II"
+            },
+            "brief_description": {
+                "vi": "Giải thích CITES II",
+                "en": "CITES I brief_description"
+            },
+            "hex_color": "#E38A47"
+        },
+        "III": {
+            "full_name": {
+                "vi": "Phụ lục III Công ước CITES",
+                "en": "CITES Appendix III"
+            },
+            "brief_description": {
+                "vi": "Giải thích CITES III",
+                "en": "CITES I brief_description"
+            },
+            "hex_color": "#F7CB47"
+        }
+    },
+    "ND160": {
+        "x": {
+            "full_name": {
+                "vi": "Nghị định 160/2013/NĐ-CP (sửa đổi, bổ sung bởi Nghị định 64/2019/NĐ-CP)",
+                "en": "Decree 160/2013/ND-CP (amended and supplemented by Decree 64/2019/ND-CP)"
+            },
+            "brief_description": {
+                "vi": "Giải thích ND160",
+                "en": "ND160 brief_description"
+            },
+            "hex_color": "#000000"
+        }
+        
+    },
+    "ND06": {
+        "IB": {
+            "full_name": {
+                "vi": "Nhóm IB Nghị định 06/2019/NĐ-CP (sửa đổi, bổ sung bởi Nghị định 84/2021/NĐ-CP)",
+                "en": "Group IB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)"
+            },
+            "brief_description": {
+                "vi": "Giải thích ND06 I",
+                "en": "ND06 I brief_description"
+            },
+            "hex_color": "#B53522"
+        },
+        "IIB": {
+            "full_name": {
+                "vi": "Nhóm IIB Nghị định 06/2019/NĐ-CP (sửa đổi, bổ sung bởi Nghị định 84/2021/NĐ-CP)",
+                "en": "Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)"
+            },
+            "brief_description": {
+                "vi": "Giải thích ND06 II",
+                "en": "ND06 II brief_description"
+            },
+            "hex_color": "#E38A47"
+        },
+        "IIIB": {
+            "full_name": {
+                "vi": "Nhóm IIIB Nghị định 06/2019/NĐ-CP (sửa đổi, bổ sung bởi Nghị định 84/2021/NĐ-CP)",
+                "en": "Group IIIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)"
+            },
+            "brief_description": {
+                "vi": "Giải thích ND06 III",
+                "en": "ND06 III brief_description"
+            },
+            "hex_color": "#F7CB47"
+        }
+    }
+}

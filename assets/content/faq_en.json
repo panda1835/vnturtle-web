@@ -1,0 +1,40 @@
+{
+    "FAQs": [
+        {
+            "question": "Where can I download this app?",
+            "answer": "You can download this app for free from the app store on your mobile phone."
+        },
+        {
+            "question": "Does the app work online?",
+            "answer": "Yes, the app only works when you are connected to the internet to use the recognition service."
+        },
+        {
+            "question": "What does this app use artificial intelligence for?",
+            "answer": "The app uses artificial intelligence to identify and distinguish 26 species of freshwater turtles and sea turtles in Vietnam."
+        },
+        {
+            "question": "Can I use this app to contribute to turtle conservation?",
+            "answer": "Yes, the app helps you identify different species of terrestrial and freshwater turtles, and you can report your observations to contribute to turtle conservation."
+        },
+        {
+            "question": "Which languages does the app support?",
+            "answer": "The app supports Vietnamese, as its main goal is to help conserve freshwater turtles in Vietnam."
+        },
+        {
+            "question": "Do I need to create an account to use this app?",
+            "answer": "No, account registration is not required. This app is completely free and does not require you to log in."
+        },
+        {
+            "question": "How do I use the turtle recognition feature in the app?",
+            "answer": "It's simple! Just open the app, tap on the 'Recognition' button, and then take or upload a photo of the turtle species you want to identify."
+        },
+        {
+            "question": "Are there any limitations to using this app?",
+            "answer": "No, this app is completely free and has no limitations on usage. We recommend using it responsibly to contribute to turtle conservation."
+        },
+        {
+            "question": "Can I use this app on a phone without an internet connection?",
+            "answer": "No, the app only works when you have an internet connection to use the recognition feature."
+        }
+    ]
+}

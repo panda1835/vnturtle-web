@@ -4,459 +4,1199 @@
         "primary_name": "Big-headed Turtle",
         "iucn": "CR",
         "sdvn": "EN",
-        "law": "- CITES Appendix I\n- Group IB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n- Decree 160/2013/ND-CP (amended and supplemented by Decree 64/2019/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Cambodia, southern China, Laos, Myanmar, Thailand, Vietnam",
         "habitat": "Fast-flowing streams and waterfalls",
         "reference_images": [
-            "images/reference_images/Platysternon_megacephalum/Platysternon_megacephalum_thumbnail.jpg"
+            "images/reference_images/Platysternon_megacephalum/Platysternon_megacephalum_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Hunting and trade"
+        "warning": "Big-headed Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Hunting and trade",
+        "laws": {
+            "CITES": "I",
+            "ND160": "x",
+            "ND06": "IB"
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Cuora amboinensis": {
         "scientific_name": "Cuora amboinensis kamaroma",
         "primary_name": "Malayan Box Turtle",
         "iucn": "EN",
         "sdvn": "VU",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)",
         "secondary_name": "",
         "distribution": "Bangladesh, Bhutan, Brunei, Cambodia, India, Indonesia, Malaysia, Laos, Myanmar (?), Philippines (?), Thailand, Vietnam",
         "habitat": "Lowland wetlands, ponds, marshes and slow-flowing streams",
         "reference_images": [
-            "images/reference_images/Cuora_amboinensis/Cuora_amboinensis_thumbnail.jpg"
+            "images/reference_images/Cuora_amboinensis/Cuora_amboinensis_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Hunting and international trade"
+        "warning": "Malayan Box Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Hunting and international trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Cuora galbinifrons": {
         "scientific_name": "Cuora galbinifrons",
         "primary_name": "Indochinese Box Turtle",
         "iucn": "CR",
         "sdvn": "EN",
-        "law": "- CITES Appendix II\n- Group IB Decree 84/2021/ND-CP (amendment and supplement of Decree 06/2019/ND-CP)\n- Decree 160/2013/ND-CP (amended and supplemented by Decree 64/2019/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Southern China, Laos, Vietnam",
         "habitat": "Woodlands and evergreen forests at mid- to high elevations",
         "reference_images": [
-            "images/reference_images/Cuora_galbinifrons/Cuora_galbinifrons_thumbnail.jpg"
+            "images/reference_images/Cuora_galbinifrons/Cuora_galbinifrons_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat degradation, hunting and trade"
+        "warning": "Indochinese Box Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat degradation, hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Cuora bourreti": {
         "scientific_name": "Cuora bourreti",
         "primary_name": "Bourret's Box Turtle",
         "iucn": "CR",
         "sdvn": "EN",
-        "law": "- CITES Appendix I\n- Group IB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n- Decree 160/2013/ND-CP (amended and supplemented by Decree 64/2019/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Laos, Vietnam",
         "habitat": "Woodlands and evergreen forests at mid- to high elevations",
         "reference_images": [
-            "images/reference_images/Cuora_bourreti/Cuora_bourreti_thumbnail.jpg"
+            "images/reference_images/Cuora_bourreti/Cuora_bourreti_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat degradation, hunting and trade"
+        "warning": "Bourret's Box Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat degradation, hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Cuora picturata": {
         "scientific_name": "Cuora picturata",
         "primary_name": "Southern Vietnam Box Turtle",
         "iucn": "CR",
         "sdvn": "EN",
-        "law": "- CITES Appendix I\n- Group IB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n- Decree 160/2013/ND-CP (amended and supplemented by Decree 64/2019/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Central Vietnam",
         "habitat": "Woodlands and evergreen forests at mid- to high elevations",
         "reference_images": [
-            "images/reference_images/Cuora_picturata/Cuora_picturata_thumbnail.jpg"
+            "images/reference_images/Cuora_picturata/Cuora_picturata_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat degradation, hunting and trade"
+        "warning": "Southern Vietnam Box Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat degradation, hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Cuora mouhotii": {
         "scientific_name": "Cuora mouhotii",
         "primary_name": "Keeled Box Turtle",
         "iucn": "EN",
         "sdvn": "",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Bangladesh, Bhutan, China, India, Laos, Myanmar, Vietnam, Thailand (?)",
         "habitat": "Limestone forests, caves and mountains",
         "reference_images": [
-            "images/reference_images/Cuora_mouhotii/Cuora_mouhotii_thumbnail.jpg"
+            "images/reference_images/Cuora_mouhotii/Cuora_mouhotii_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat degradation, hunting and trade"
+        "warning": "Keeled Box Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat degradation, hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Cuora cyclornata": {
         "scientific_name": "Cuora (trifasciata) cyclornata",
         "primary_name": "Vietnamese Three-striped Box Turtle",
         "iucn": "CR",
         "sdvn": "CR",
-        "law": "- CITES Appendix II\n- Group IB Decree 84/2021/ND-CP (amendment and supplement of Decree 06/2019/ND-CP)\n- Decree 160/2013/ND-CP (amended and supplemented by Decree 64/2019/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "China, Laos, Vietnam",
         "habitat": "Forest streams and marshes at low to mid-elevations",
         "reference_images": [
-            "images/reference_images/Cuora_cyclornata/Cuora_cyclornata_thumbnail.jpg"
+            "images/reference_images/Cuora_cyclornata/Cuora_cyclornata_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Hunting and international trade"
+        "warning": "Vietnamese Three-striped Box Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Hunting and international trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Cyclemys oldhamii": {
         "scientific_name": "Cyclemys oldhamii",
         "primary_name": "Southern Asian Leaf Turtle",
         "iucn": "EN",
         "sdvn": "",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Cambodia, China, Laos, Myanmar, Thailand, Vietnam",
         "habitat": "Forest streams and marshes at low to mid-elevations",
         "reference_images": [
-            "images/reference_images/Cyclemys_oldhamii/Cyclemys_oldhamii_thumbnail.jpg"
+            "images/reference_images/Cyclemys_oldhamii/Cyclemys_oldhamii_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat loss, hunting and trade"
+        "warning": "Southern Asian Leaf Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat loss, hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Cyclemys pulchristriata": {
         "scientific_name": "Cyclemys pulchristriata",
         "primary_name": "Eastern Black-bridged Leaf Turtle",
         "iucn": "EN",
         "sdvn": "",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Cambodia, Vietnam",
         "habitat": "Forest streams and marshes at low to mid-elevations",
         "reference_images": [
-            "images/reference_images/Cyclemys_pulchristriata/Cyclemys_pulchristriata_thumbnail.jpg"
+            "images/reference_images/Cyclemys_pulchristriata/Cyclemys_pulchristriata_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat loss, hunting and trade"
+        "warning": "Eastern Black-bridged Leaf Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat loss, hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Cyclemys atripons": {
         "scientific_name": "Cyclemys atripons",
         "primary_name": "Western Black-Bridged Leaf Turtle",
         "iucn": "EN",
         "sdvn": "",
-        "law": "- CITES Appendix II\n\n\n",
         "secondary_name": "",
         "distribution": "Cambodia, Thailand, Vietnam",
         "habitat": "Forest streams and marshes at low to mid-elevations",
         "reference_images": [
-            "images/reference_images/Cyclemys_atripons/Cyclemys_atripons_thumbnail.jpg"
+            "images/reference_images/Cyclemys_atripons/Cyclemys_atripons_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat loss, hunting and trade"
+        "warning": "Western Black-Bridged Leaf Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat loss, hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Geoemyda spengleri": {
         "scientific_name": "Geoemyda spengleri",
         "primary_name": "Black-breasted Leaf Turtle",
         "iucn": "EN",
         "sdvn": "",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "China, Laos, Vietnam",
         "habitat": "Montane forests at mid- to high elevations",
         "reference_images": [
-            "images/reference_images/Geoemyda_spengleri/Geoemyda_spengleri_thumbnail.jpg"
+            "images/reference_images/Geoemyda_spengleri/Geoemyda_spengleri_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Hunting and international trade"
+        "warning": "Black-breasted Leaf Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Hunting and international trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Heosemys grandis": {
         "scientific_name": "Heosemys grandis",
         "primary_name": "Giant Asian Pond Turtle",
         "iucn": "CR",
         "sdvn": "VU",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Cambodia, Laos, Malaysia (Peninsular), Myanmar, Thailand, Vietnam",
         "habitat": "Rivers, streams, marshes, and wetlands at low to mid-elevations",
         "reference_images": [
-            "images/reference_images/Heosemys_grandis/Heosemys_grandis_thumbnail.jpg"
+            "images/reference_images/Heosemys_grandis/Heosemys_grandis_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Hunting and international trade"
+        "warning": "Giant Asian Pond Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Hunting and international trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Heosemys annandalii": {
         "scientific_name": "Heosemys annandalii",
         "primary_name": "Yellow-headed Temple Turtle",
         "iucn": "CR",
         "sdvn": "EN",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Cambodia, Laos, Malaysia (Peninsular), Thailand, Vietnam",
         "habitat": "Slow-flowing rivers, ponds and wetlands",
         "reference_images": [
-            "images/reference_images/Heosemys_annandalii/Heosemys_annandalii_thumbnail.jpg"
+            "images/reference_images/Heosemys_annandalii/Heosemys_annandalii_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Hunting and international trade"
+        "warning": "Yellow-headed Temple Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Hunting and international trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Malayemys subtrijuga": {
         "scientific_name": "Malayemys subtrijuga",
         "primary_name": "Mekong Snail-eating Turtle",
         "iucn": "NT",
         "sdvn": "VU",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Cambodia, Laos, Thailand (?), Vietnam",
         "habitat": "Ponds, streams, swamps, marshes, and wetlands at low elevations",
         "reference_images": [
-            "images/reference_images/Malayemys_subtrijuga/Malayemys_subtrijuga_thumbnail.jpg"
+            "images/reference_images/Malayemys_subtrijuga/Malayemys_subtrijuga_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat loss and hunting"
+        "warning": "Mekong Snail-eating Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat loss and hunting",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Mauremys annamensis": {
         "scientific_name": "Mauremys annamensis",
         "primary_name": "Vietnamese Pond Turtle",
         "iucn": "CR",
         "sdvn": "CR",
-        "law": "- CITES Appendix II\n- Group IB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n- Decree 160/2013/ND-CP (amended and supplemented by Decree 64/2019/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Central Vietnam",
         "habitat": "Ponds, marshes, wetlands and slow-moving streams at low elevations",
         "reference_images": [
-            "images/reference_images/Mauremys_annamensis/Mauremys_annamensis_thumbnail.jpg"
+            "images/reference_images/Mauremys_annamensis/Mauremys_annamensis_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat loss, hunting and trade for local consumption"
+        "warning": "Vietnamese Pond Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat loss, hunting and trade for local consumption",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Mauremys mutica": {
         "scientific_name": "Mauremys mutica",
         "primary_name": "Asian Yellow Pond Turtle",
         "iucn": "CR",
         "sdvn": "",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "China, Japan, Taiwan, Vietnam",
         "habitat": "Ponds, marshes, wetlands and slow-moving streams",
         "reference_images": [
-            "images/reference_images/Mauremys_mutica/Mauremys_mutica_thumbnail.jpg"
+            "images/reference_images/Mauremys_mutica/Mauremys_mutica_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat loss, hunting and trade"
+        "warning": "Asian Yellow Pond Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat loss, hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Mauremys sinensis": {
         "scientific_name": "Mauremys sinensis",
         "primary_name": "Chinese Striped-neck Turtle",
         "iucn": "CR",
         "sdvn": "",
-        "law": "- CITES Appendix III\n\n\n",
         "secondary_name": "",
         "distribution": "China, Taiwan, Vietnam",
         "habitat": "Rivers, ponds and wetlands at low elevations",
         "reference_images": [
-            "images/reference_images/Mauremys_sinensis/Mauremys_sinensis_thumbnail.jpg"
+            "images/reference_images/Mauremys_sinensis/Mauremys_sinensis_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat loss, hunting and trade"
+        "warning": "Chinese Striped-neck Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat loss, hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Sacalia quadriocellata": {
         "scientific_name": "Sacalia quadriocellata",
         "primary_name": "Four-eyed Turtle",
         "iucn": "CR",
         "sdvn": "",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "China, Laos, Vietnam",
         "habitat": "Woodland streams in montane forests",
         "reference_images": [
-            "images/reference_images/Sacalia_quadriocellata/Sacalia_quadriocellata_thumbnail.jpg"
+            "images/reference_images/Sacalia_quadriocellata/Sacalia_quadriocellata_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Hunting and trade"
+        "warning": "Four-eyed Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Siebenrockiella crassicollis": {
         "scientific_name": "Siebenrockiella crassicollis",
         "primary_name": "Black Marsh Turtle",
         "iucn": "EN",
         "sdvn": "",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Cambodia, Indonesia, Laos, Malaysia, Myanmar, Singapore, Thailand, Vietnam",
         "habitat": "Slow-flowing rivers, streams, ponds and marshes",
         "reference_images": [
-            "images/reference_images/Siebenrockiella_crassicollis/Siebenrockiella_crassicollis_thumbnail.jpg"
+            "images/reference_images/Siebenrockiella_crassicollis/Siebenrockiella_crassicollis_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Hunting and trade"
+        "warning": "Black Marsh Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Indotestudo elongata": {
         "scientific_name": "Indotestudo elongata",
         "primary_name": "Elongated Tortoise",
         "iucn": "CR",
         "sdvn": "EN",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Bangladesh, Bhutan, Cambodia, India, Laos, Malaysia, Myanmar, Nepal, Thailand, Vietnam",
         "habitat": "Forests, grasslands and scrublands at low-mid elevations",
         "reference_images": [
-            "images/reference_images/Indotestudo_elongata/Indotestudo_elongata_thumbnail.jpg"
+            "images/reference_images/Indotestudo_elongata/Indotestudo_elongata_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Hunting, local consumption, international trade and habitat loss"
+        "warning": "Elongated Tortoise is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Hunting, local consumption, international trade and habitat loss",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Manouria impressa": {
         "scientific_name": "Manouria impressa",
         "primary_name": "Impressed Tortoise",
         "iucn": "EN",
         "sdvn": "VU",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Cambodia, China, Laos, Malaysia, Myanmar, Thailand, Vietnam",
         "habitat": "Hilly and montane forests at mid-to high elevations",
         "reference_images": [
-            "images/reference_images/Manouria_impressa/Manouria_impressa_thumbnail.jpg"
+            "images/reference_images/Manouria_impressa/Manouria_impressa_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat loss, hunting and trade"
+        "warning": "Impressed Tortoise is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat loss, hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Amyda ornata": {
         "scientific_name": "Amyda ornata",
         "primary_name": "Asiatic Softshell Turtle",
         "iucn": "VU",
         "sdvn": "VU",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Bangladesh, Cambodia, India, Laos, Myanmar, Thailand, Vietnam",
         "habitat": "Various lakes, streams and rivers",
         "reference_images": [
-            "images/reference_images/Amyda_ornata/Amyda_ornata_thumbnail.jpg"
+            "images/reference_images/Amyda_ornata/Amyda_ornata_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Hunting, international trade and local consumption"
+        "warning": "Asiatic Softshell Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Hunting, international trade and local consumption",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Palea steindachneri": {
         "scientific_name": "Palea steindachneri",
         "primary_name": "Wattle-necked Softshell Turtle",
         "iucn": "CR",
         "sdvn": "VU",
-        "law": "- CITES Appendix II\n- Group IIB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "China, Vietnam",
         "habitat": "Streams, rivers, lakes, ponds and marshes at low-mid elevations",
         "reference_images": [
-            "images/reference_images/Palea_steindachneri/Palea_steindachneri_thumbnail.jpg"
+            "images/reference_images/Palea_steindachneri/Palea_steindachneri_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat loss, hunting and trade"
+        "warning": "Wattle-necked Softshell Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat loss, hunting and trade",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Pelochelys cantorii": {
         "scientific_name": "Pelochelys cantorii",
         "primary_name": "Cantor's Giant Softshell Turtle",
         "iucn": "CR",
         "sdvn": "EN",
-        "law": "- CITES Appendix II\n- Group IB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n- Decree 160/2013/ND-CP (amended and supplemented by Decree 64/2019/ND-CP)\n\n\n",
         "secondary_name": "",
         "distribution": "Bangladesh, Cambodia, China, India, Indonesia, Laos, Malaysia, Myanmar, Philippines, Thailand, Vietnam",
         "habitat": "Large rivers, lakes and coastal waters",
         "reference_images": [
-            "images/reference_images/Pelochelys_cantorii/Pelochelys_cantorii_thumbnail.jpg"
+            "images/reference_images/Pelochelys_cantorii/Pelochelys_cantorii_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Hunting and local consumption"
+        "warning": "Cantor's Giant Softshell Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Hunting and local consumption",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Pelodiscus variegatus": {
         "scientific_name": "Pelodiscus variegatus",
         "primary_name": "Spotted Softshell Turtle",
         "iucn": "NM",
         "sdvn": "",
-        "law": "",
         "secondary_name": "",
         "distribution": "China, Vietnam",
         "habitat": "Rivers, streams, lakes, ponds and wetlands",
         "reference_images": [
-            "images/reference_images/Pelodiscus_variegatus/Pelodiscus_variegatus_thumbnail.jpg"
+            "images/reference_images/Pelodiscus_variegatus/Pelodiscus_variegatus_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Hunting, local consumption and habitat loss"
+        "warning": "Spotted Softshell Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Hunting, local consumption and habitat loss",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Pelodiscus sinensis": {
         "scientific_name": "Pelodiscus sinensis",
         "primary_name": "Chinese softshell turtle",
         "iucn": "VU",
         "sdvn": "",
-        "law": "Luật lâm nghiệp (2017)",
         "secondary_name": "Ba ba trơn",
         "distribution": "Trung Quốc, Việt Nam, Đài Loan, Hàn Quốc, Nga, và Nhật Bản",
         "habitat": "sông, suối, hồ, ao và các khu vực đất ngập nước",
         "reference_images": [
             "images/reference_images/Pelodiscus_sinensis/Pelodiscus_sinensis_thumbnail.jpg",
-            "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg"
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": ["images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg", "images/placeholder-image.jpeg"],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "Text here",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Sắn bắt, tiêu thụ tại địa phương và mất sinh cảnh sống"
+        "warning": "Chinese softshell turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Sắn bắt, tiêu thụ tại địa phương và mất sinh cảnh sống",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     },
     "Rafetus swinhoei": {
         "scientific_name": "Rafetus swinhoei",
         "primary_name": "Swinhoe's Softshell Turtle",
         "iucn": "CR",
         "sdvn": "CR",
-        "law": "- CITES Appendix II\n- Group IB Decree 06/2019/ND-CP (amended and supplemented by Decree 84/2021/ND-CP)\n- Decree 160/2013/ND-CP (amended and supplemented by Decree 64/2019/ND-CP)\n\nHistoric: large river system of China and Vietnam\nCurrent: Suzhou Zoo, China and Dong Mo lake and Xuan Khanh lake, Hanoi, Vietnam\n\n",
         "secondary_name": "",
         "distribution": ":",
         "habitat": "Large rivers, lakes and wetlands",
         "reference_images": [
-            "images/reference_images/Rafetus_swinhoei/Rafetus_swinhoei_thumbnail.jpg"
+            "images/reference_images/Rafetus_swinhoei/Rafetus_swinhoei_thumbnail.jpg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
         ],
-        "identification_images": [],
+        "identification_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
         "fun_fact": "",
-        "warning": "Đây là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
-        "threat": "Habitat loss, hunting and trade for local consumption"
+        "warning": "Swinhoe's Softshell Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials.",
+        "threats": "Habitat loss, hunting and trade for local consumption",
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "other_names": "",
+        "taxonomy": {
+            "class": "",
+            "order": "",
+            "family": "",
+            "genus": ""
+        },
+        "characteristics": "",
+        "reference_sources": [
+            "Vietnam's Red Data Book (2007)",
+            "Freshwater turtles and tortoises identification guide (2022)"
+        ]
     }
 }

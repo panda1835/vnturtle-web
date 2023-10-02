@@ -1,0 +1,41 @@
+{
+    "FAQs": [
+      {
+        "question": "Tôi có thể tải ứng dụng này từ đâu?",
+        "answer": "Ứng dụng này có thể tải miễn phí từ cửa hàng ứng dụng trên điện thoại di động của bạn."
+      },
+      {
+        "question": "Ứng dụng có hoạt động trực tuyến không?",
+        "answer": "Có, ứng dụng chỉ hoạt động khi bạn kết nối internet để sử dụng dịch vụ nhận diện."
+      },
+      {
+        "question": "Ứng dụng này sử dụng trí tuệ nhân tạo để làm gì?",
+        "answer": "Ứng dụng sử dụng trí tuệ nhân tạo để nhận diện và phân biệt 26 loài rùa nước ngọt và rùa biển ở Việt Nam."
+      },
+      {
+        "question": "Tôi có thể sử dụng ứng dụng này để góp phần vào bảo tồn rùa không?",
+        "answer": "Có, ứng dụng giúp bạn nhận biết các loài rùa cạn và rùa nước ngọt, từ đó bạn có thể báo cáo quan sát của mình để góp phần vào bảo tồn rùa."
+      },
+      {
+        "question": "Ứng dụng này hỗ trợ ngôn ngữ nào?",
+        "answer": "Ứng dụng hỗ trợ tiếng Việt, vì mục tiêu chính của nó là giúp bảo tồn rùa nước ngọt ở Việt Nam."
+      },
+      {
+        "question": "Tôi cần phải đăng ký tài khoản để sử dụng ứng dụng này không?",
+        "answer": "Không cần đăng ký tài khoản. Ứng dụng này hoàn toàn miễn phí và không yêu cầu bạn đăng nhập."
+      },
+      {
+        "question": "Làm thế nào để tôi sử dụng tính năng nhận diện rùa trong ứng dụng?",
+        "answer": "Đơn giản! Chỉ cần mở ứng dụng, nhấn vào nút 'Nhận diện' và sau đó chụp hoặc tải ảnh của loài rùa bạn muốn nhận diện."
+      },
+      {
+        "question": "Có bất kỳ hạn chế nào về việc sử dụng ứng dụng này?",
+        "answer": "Không, ứng dụng này hoàn toàn miễn phí và không có hạn chế về việc sử dụng. Chúng tôi khuyến nghị bạn sử dụng nó một cách có trách nhiệm để góp phần vào bảo tồn rùa."
+      },
+      {
+        "question": "Tôi có thể sử dụng ứng dụng này trên điện thoại không có kết nối internet không?",
+        "answer": "Không, ứng dụng chỉ hoạt động khi bạn có kết nối internet để sử dụng tính năng nhận diện."
+      }
+    ]
+  }
+  
