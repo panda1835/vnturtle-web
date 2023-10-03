@@ -32,16 +32,17 @@
         },
         "other_names": "",
         "taxonomy": {
-            "class": "",
-            "order": "",
-            "family": "",
+            "class": "Reptilia",
+            "order": "Testudinata",
+            "family": "Platysternidae",
             "genus": ""
         },
         "characteristics": "",
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cuora amboinensis": {
         "scientific_name": "Cuora amboinensis kamaroma",
@@ -85,7 +86,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cuora galbinifrons": {
         "scientific_name": "Cuora galbinifrons",
@@ -129,7 +131,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cuora bourreti": {
         "scientific_name": "Cuora bourreti",
@@ -173,7 +176,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cuora picturata": {
         "scientific_name": "Cuora picturata",
@@ -217,7 +221,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cuora mouhotii": {
         "scientific_name": "Cuora mouhotii",
@@ -261,7 +266,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cuora cyclornata": {
         "scientific_name": "Cuora (trifasciata) cyclornata",
@@ -305,7 +311,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cyclemys oldhamii": {
         "scientific_name": "Cyclemys oldhamii",
@@ -349,7 +356,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cyclemys pulchristriata": {
         "scientific_name": "Cyclemys pulchristriata",
@@ -393,7 +401,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cyclemys atripons": {
         "scientific_name": "Cyclemys atripons",
@@ -437,7 +446,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Geoemyda spengleri": {
         "scientific_name": "Geoemyda spengleri",
@@ -481,7 +491,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Heosemys grandis": {
         "scientific_name": "Heosemys grandis",
@@ -525,7 +536,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Heosemys annandalii": {
         "scientific_name": "Heosemys annandalii",
@@ -569,7 +581,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Malayemys subtrijuga": {
         "scientific_name": "Malayemys subtrijuga",
@@ -613,7 +626,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Mauremys annamensis": {
         "scientific_name": "Mauremys annamensis",
@@ -657,7 +671,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Mauremys mutica": {
         "scientific_name": "Mauremys mutica",
@@ -701,7 +716,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Mauremys sinensis": {
         "scientific_name": "Mauremys sinensis",
@@ -745,7 +761,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Sacalia quadriocellata": {
         "scientific_name": "Sacalia quadriocellata",
@@ -789,7 +806,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Siebenrockiella crassicollis": {
         "scientific_name": "Siebenrockiella crassicollis",
@@ -833,7 +851,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Indotestudo elongata": {
         "scientific_name": "Indotestudo elongata",
@@ -877,7 +896,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Manouria impressa": {
         "scientific_name": "Manouria impressa",
@@ -921,7 +941,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Amyda ornata": {
         "scientific_name": "Amyda ornata",
@@ -965,7 +986,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Palea steindachneri": {
         "scientific_name": "Palea steindachneri",
@@ -1009,7 +1031,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Pelochelys cantorii": {
         "scientific_name": "Pelochelys cantorii",
@@ -1053,7 +1076,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Pelodiscus variegatus": {
         "scientific_name": "Pelodiscus variegatus",
@@ -1097,7 +1121,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Pelodiscus sinensis": {
         "scientific_name": "Pelodiscus sinensis",
@@ -1153,7 +1178,8 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Rafetus swinhoei": {
         "scientific_name": "Rafetus swinhoei",
@@ -1197,6 +1223,7 @@
         "reference_sources": [
             "Vietnam's Red Data Book (2007)",
             "Freshwater turtles and tortoises identification guide (2022)"
-        ]
+        ],
+        "native": "true"
     }
 }

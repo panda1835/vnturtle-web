@@ -32,18 +32,19 @@
             "ND160": "x",
             "ND06": "IB"
         },
-        "other_names": "",
+        "other_names": "Rùa mỏ vẹt, Rùa lưng dẹp, Rùa đuôi dài",
         "taxonomy": {
-            "class": "",
-            "order": "",
-            "family": "",
+            "class": "Bò sát (Reptilia)",
+            "order": "Rùa (Testudinata)",
+            "family": "Rùa đầu to (Platysternidae)",
             "genus": ""
         },
-        "characteristics": "",
+        "characteristics": "Rùa cỡ trung bình nhỏ. Đầu to, không thụt vào trong mai được. Bên đầu có một vệt vàng nhạt chạy từ mắt tới cổ. Mỏ to, giống như mỏ chim vẹt. Mai rất dẹp, màu xám. Bụng màu vàng rất nhạt. Đuôi dài và to gần bằng dài thân. Lưng hình mái, cao ở đỉnh, có gờ rất rõ và thuôn xuống hai bên.",
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cuora amboinensis": {
         "scientific_name": "Cuora amboinensis kamaroma",
@@ -89,7 +90,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cuora galbinifrons": {
         "scientific_name": "Cuora galbinifrons",
@@ -135,7 +137,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cuora bourreti": {
         "scientific_name": "Cuora bourreti",
@@ -181,7 +184,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cuora picturata": {
         "scientific_name": "Cuora picturata",
@@ -227,7 +231,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cuora mouhotii": {
         "scientific_name": "Cuora mouhotii",
@@ -273,7 +278,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cuora (trifasciata) cyclornata": {
         "scientific_name": "Cuora cyclornata",
@@ -319,7 +325,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cyclemys oldhamii": {
         "scientific_name": "Cyclemys oldhamii",
@@ -365,7 +372,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cyclemys pulchristriata": {
         "scientific_name": "Cyclemys pulchristriata",
@@ -411,7 +419,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Cyclemys atripons": {
         "scientific_name": "Cyclemys atripons",
@@ -457,7 +466,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Geoemyda spengleri": {
         "scientific_name": "Geoemyda spengleri",
@@ -503,7 +513,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Heosemys grandis": {
         "scientific_name": "Heosemys grandis",
@@ -549,7 +560,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Heosemys annandalii": {
         "scientific_name": "Heosemys annandalii",
@@ -595,7 +607,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Malayemys subtrijuga": {
         "scientific_name": "Malayemys subtrijuga",
@@ -641,7 +654,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Mauremys annamensis": {
         "scientific_name": "Mauremys annamensis",
@@ -687,7 +701,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Mauremys mutica": {
         "scientific_name": "Mauremys mutica",
@@ -733,7 +748,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Mauremys sinensis": {
         "scientific_name": "Mauremys sinensis",
@@ -779,7 +795,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Sacalia quadriocellata": {
         "scientific_name": "Sacalia quadriocellata",
@@ -825,7 +842,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Siebenrockiella crassicollis": {
         "scientific_name": "Siebenrockiella crassicollis",
@@ -871,7 +889,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Indotestudo elongata": {
         "scientific_name": "Indotestudo elongata",
@@ -917,7 +936,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Manouria impressa": {
         "scientific_name": "Manouria impressa",
@@ -963,7 +983,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Amyda ornata": {
         "scientific_name": "Amyda ornata",
@@ -1009,7 +1030,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Palea steindachneri": {
         "scientific_name": "Palea steindachneri",
@@ -1055,7 +1077,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Pelochelys cantorii": {
         "scientific_name": "Pelochelys cantorii",
@@ -1101,7 +1124,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Pelodiscus variegatus": {
         "scientific_name": "Pelodiscus variegatus",
@@ -1147,7 +1171,8 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Pelodiscus sinensis": {
         "scientific_name": "Pelodiscus sinensis",
@@ -1193,11 +1218,12 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     },
     "Rafetus swinhoei": {
         "scientific_name": "Rafetus swinhoei",
-        "primary_name": "Giải Sin-hoe (rùa Hoàn Kiếm)",
+        "primary_name": "Giải Sin-hoe",
         "iucn": "CR",
         "sdvn": "CR",
         "secondary_name": "Swinhoe's Softshell Turtle",
@@ -1228,7 +1254,7 @@
             "ND160": "",
             "ND06": ""
         },
-        "other_names": "",
+        "other_names": "Rùa Hoàn Kiếm, Rùa Hồ Gươm, Giải Thượng Hải",
         "taxonomy": {
             "class": "",
             "order": "",
@@ -1239,6 +1265,7 @@
         "reference_sources": [
             "Sách đỏ Việt Nam (2007)",
             "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
-        ]
+        ],
+        "native": "true"
     }
 }
