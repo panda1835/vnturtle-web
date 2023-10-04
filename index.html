@@ -32,29 +32,9 @@
   <title>vnturtle</title>
   <link rel="manifest" href="manifest.json">
 
-  <script type="module">
-    // Import the functions you need from the SDKs you need
-    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-app.js";
-    // TODO: Add SDKs for Firebase products that you want to use
-    // https://firebase.google.com/docs/web/setup#available-libraries
-  
-    // Your web app's Firebase configuration
-    const firebaseConfig = {
-      apiKey: "AIzaSyBuLZkKtrj18LzuVsvSstnnQuLbSp5lqFA",
-      authDomain: "ecstatic-design-399511.firebaseapp.com",
-      projectId: "ecstatic-design-399511",
-      storageBucket: "ecstatic-design-399511.appspot.com",
-      messagingSenderId: "859395045927",
-      appId: "1:859395045927:web:c2b790e235d26a81df6c02"
-    };
-  
-    // Initialize Firebase
-    const app = initializeApp(firebaseConfig);
-  </script>
-
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "2165911753";
+    const serviceWorkerVersion = "4163624136";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -74,6 +54,23 @@
         }
       });
     });
+  </script>
+
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+
+  <script>
+    //Replace with your config data
+    var firebaseConfig = {
+      apiKey: "AIzaSyBuLZkKtrj18LzuVsvSstnnQuLbSp5lqFA",
+      authDomain: "ecstatic-design-399511.firebaseapp.com",
+      projectId: "ecstatic-design-399511",
+      storageBucket: "ecstatic-design-399511.appspot.com",
+      messagingSenderId: "859395045927",
+      appId: "1:859395045927:web:c2b790e235d26a81df6c02"
+    };
+      
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
   </script>
 </body>
 </html>
