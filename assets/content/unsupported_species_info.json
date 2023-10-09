@@ -1,0 +1,751 @@
+{
+    "Chelonoidis carbonarius": {
+        "scientific_name": "Chelonoidis carbonarius",
+        "reference_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "native": "false",
+        "artworks": [
+            "images/placeholder-image.jpeg"
+        ],
+        "conservation_status": {
+            "sdvn": "",
+            "iucn": "CR"
+        },
+        "primary_name": {
+            "vi": "Rùa chân đỏ",
+            "en": "Red-footed tortoise"
+        },
+        "distribution": {
+            "vi": "",
+            "en": "",
+            "maps": [
+                "images/placeholder-image.jpeg"
+            ]
+        },
+        "habitat": {
+            "vi": "",
+            "en": ""
+        },
+        "fun_fact": {
+            "vi": "",
+            "en": ""
+        },
+        "warning": {
+            "vi": "",
+            "en": ""
+        },
+        "other_names": {
+            "vi": "",
+            "en": ""
+        },
+        "characteristics": {
+            "vi": "",
+            "en": ""
+        },
+        "reference_sources": {
+            "vi": [
+                ""
+            ],
+            "en": [
+                ""
+            ]
+        },
+        "secondary_name": {
+            "vi": "Red-footed tortoise",
+            "en": "Rùa chân đỏ"
+        },
+        "taxonomy": {
+            "class": {
+                "vi": "",
+                "en": ""
+            },
+            "order": {
+                "vi": "",
+                "en": ""
+            },
+            "family": {
+                "vi": "",
+                "en": ""
+            },
+            "genus": {
+                "vi": "",
+                "en": ""
+            }
+        },
+        "identification_images": [
+            {
+                "image": "images/placeholder-image.jpeg",
+                "description": {
+                    "vi": "Text here",
+                    "en": "Text here"
+                }
+            }
+        ]
+    },
+    "Centrochelys sulcata": {
+        "scientific_name": "Centrochelys sulcata",
+        "reference_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "native": "false",
+        "artworks": [
+            "images/placeholder-image.jpeg"
+        ],
+        "conservation_status": {
+            "sdvn": "",
+            "iucn": "CR"
+        },
+        "primary_name": {
+            "vi": "Rùa Sulcata",
+            "en": "African spurred tortoise"
+        },
+        "distribution": {
+            "vi": "",
+            "en": "",
+            "maps": [
+                "images/placeholder-image.jpeg"
+            ]
+        },
+        "habitat": {
+            "vi": "",
+            "en": ""
+        },
+        "fun_fact": {
+            "vi": "",
+            "en": ""
+        },
+        "warning": {
+            "vi": "",
+            "en": ""
+        },
+        "other_names": {
+            "vi": "Rùa Châu Phi, Rùa Cựa",
+            "en": ""
+        },
+        "characteristics": {
+            "vi": "",
+            "en": ""
+        },
+        "reference_sources": {
+            "vi": [
+                ""
+            ],
+            "en": [
+                ""
+            ]
+        },
+        "secondary_name": {
+            "vi": "African spurred tortoise",
+            "en": "Rùa Sulcata"
+        },
+        "taxonomy": {
+            "class": {
+                "vi": "",
+                "en": ""
+            },
+            "order": {
+                "vi": "",
+                "en": ""
+            },
+            "family": {
+                "vi": "",
+                "en": ""
+            },
+            "genus": {
+                "vi": "",
+                "en": ""
+            }
+        },
+        "identification_images": [
+            {
+                "image": "images/placeholder-image.jpeg",
+                "description": {
+                    "vi": "Text here",
+                    "en": "Text here"
+                }
+            }
+        ]
+    },
+    "Chelydra serpentina": {
+        "scientific_name": "Chelydra serpentina",
+        "reference_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "native": "false",
+        "artworks": [
+            "images/placeholder-image.jpeg"
+        ],
+        "conservation_status": {
+            "sdvn": "",
+            "iucn": "CR"
+        },
+        "primary_name": {
+            "vi": "Rùa Cá Sấu Common",
+            "en": "Common Snapping Turtle"
+        },
+        "distribution": {
+            "vi": "",
+            "en": "",
+            "maps": [
+                "images/placeholder-image.jpeg"
+            ]
+        },
+        "habitat": {
+            "vi": "",
+            "en": ""
+        },
+        "fun_fact": {
+            "vi": "",
+            "en": ""
+        },
+        "warning": {
+            "vi": "",
+            "en": ""
+        },
+        "other_names": {
+            "vi": "",
+            "en": ""
+        },
+        "characteristics": {
+            "vi": "",
+            "en": ""
+        },
+        "reference_sources": {
+            "vi": [
+                ""
+            ],
+            "en": [
+                ""
+            ]
+        },
+        "secondary_name": {
+            "vi": "Common Snapping Turtle",
+            "en": "Rùa Cá Sấu Common"
+        },
+        "taxonomy": {
+            "class": {
+                "vi": "",
+                "en": ""
+            },
+            "order": {
+                "vi": "",
+                "en": ""
+            },
+            "family": {
+                "vi": "",
+                "en": ""
+            },
+            "genus": {
+                "vi": "",
+                "en": ""
+            }
+        },
+        "identification_images": [
+            {
+                "image": "images/placeholder-image.jpeg",
+                "description": {
+                    "vi": "Text here",
+                    "en": "Text here"
+                }
+            }
+        ]
+    },
+    "Graptemys pseudogeographica": {
+        "scientific_name": "Graptemys pseudogeographica",
+        "reference_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "native": "false",
+        "artworks": [
+            "images/placeholder-image.jpeg"
+        ],
+        "conservation_status": {
+            "sdvn": "",
+            "iucn": "CR"
+        },
+        "primary_name": {
+            "vi": "Rùa bản đồ",
+            "en": "False map turtle"
+        },
+        "distribution": {
+            "vi": "",
+            "en": "",
+            "maps": [
+                "images/placeholder-image.jpeg"
+            ]
+        },
+        "habitat": {
+            "vi": "",
+            "en": ""
+        },
+        "fun_fact": {
+            "vi": "",
+            "en": ""
+        },
+        "warning": {
+            "vi": "",
+            "en": ""
+        },
+        "other_names": {
+            "vi": "",
+            "en": ""
+        },
+        "characteristics": {
+            "vi": "",
+            "en": ""
+        },
+        "reference_sources": {
+            "vi": "",
+            "en": ""
+        },
+        "secondary_name": {
+            "vi": "False map turtle",
+            "en": "Rùa bản đồ"
+        },
+        "taxonomy": {
+            "class": {
+                "vi": "",
+                "en": ""
+            },
+            "order": {
+                "vi": "",
+                "en": ""
+            },
+            "family": {
+                "vi": "",
+                "en": ""
+            },
+            "genus": {
+                "vi": "",
+                "en": ""
+            }
+        },
+        "identification_images": [
+            {
+                "image": "images/placeholder-image.jpeg",
+                "description": {
+                    "vi": "Text here",
+                    "en": "Text here"
+                }
+            }
+        ]
+    },
+    "Macrochelys temminckii": {
+        "scientific_name": "Macrochelys temminckii",
+        "reference_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "native": "false",
+        "artworks": [
+            "images/placeholder-image.jpeg"
+        ],
+        "conservation_status": {
+            "sdvn": "",
+            "iucn": "CR"
+        }
+        ,
+        "primary_name": {
+            "vi": "Rùa Cá Sấu",
+            "en": ""
+        },
+        "distribution": {
+            "vi": "",
+            "en": "",
+            "maps": [
+                "images/placeholder-image.jpeg"
+            ]
+        },
+        "habitat": {
+            "vi": "",
+            "en": ""
+        },
+        "fun_fact": {
+            "vi": "",
+            "en": ""
+        },
+        "warning": {
+            "vi": "",
+            "en": ""
+        },
+        "other_names": {
+            "vi": "Rùa Ngoạm",
+            "en": ""
+        },
+        "characteristics": {
+            "vi": "",
+            "en": ""
+        },
+        "reference_sources": {
+            "vi": [
+                ""
+            ],
+            "en": [
+                ""
+            ]
+        },
+        "secondary_name": {
+            "vi": "",
+            "en": "Rùa Cá Sấu"
+        },
+        "taxonomy": {
+            "class": {
+                "vi": "",
+                "en": ""
+            },
+            "order": {
+                "vi": "",
+                "en": ""
+            },
+            "family": {
+                "vi": "",
+                "en": ""
+            },
+            "genus": {
+                "vi": "",
+                "en": ""
+            }
+        },
+        "identification_images": [
+            {
+                "image": "images/placeholder-image.jpeg",
+                "description": {
+                    "vi": "Text here",
+                    "en": "Text here"
+                }
+            }
+        ]
+    },
+    "Mauremys reevesii ": {
+        "scientific_name": "Mauremys reevesii ",
+        "reference_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "native": "false",
+        "artworks": [
+            "images/placeholder-image.jpeg"
+        ],
+        "conservation_status": {
+            "sdvn": "",
+            "iucn": "CR"
+        },
+        "primary_name": {
+            "vi": "",
+            "en": ""
+        },
+        "distribution": {
+            "vi": "",
+            "en": "",
+            "maps": [
+                "images/placeholder-image.jpeg"
+            ]
+        },
+        "habitat": {
+            "vi": "",
+            "en": ""
+        },
+        "fun_fact": {
+            "vi": "",
+            "en": ""
+        },
+        "warning": {
+            "vi": "",
+            "en": ""
+        },
+        "other_names": {
+            "vi": "",
+            "en": ""
+        },
+        "characteristics": {
+            "vi": "",
+            "en": ""
+        },
+        "reference_sources": {
+            "vi": [
+                ""
+            ],
+            "en": [
+                ""
+            ]
+        },
+        "secondary_name": {
+            "vi": "",
+            "en": ""
+        },
+        "taxonomy": {
+            "class": {
+                "vi": "",
+                "en": ""
+            },
+            "order": {
+                "vi": "",
+                "en": ""
+            },
+            "family": {
+                "vi": "",
+                "en": ""
+            },
+            "genus": {
+                "vi": "",
+                "en": ""
+            }
+        },
+        "identification_images": [
+            {
+                "image": "images/placeholder-image.jpeg",
+                "description": {
+                    "vi": "Text here",
+                    "en": "Text here"
+                }
+            }
+        ]
+    },
+    "Podocnemis unifilis": {
+        "scientific_name": "Podocnemis unifilis",
+        "reference_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "native": "false",
+        "artworks": [
+            "images/placeholder-image.jpeg"
+        ],
+        "conservation_status": {
+            "sdvn": "",
+            "iucn": "CR"
+        },
+        "primary_name": {
+            "vi": "",
+            "en": ""
+        },
+        "distribution": {
+            "vi": "",
+            "en": "",
+            "maps": [
+                "images/placeholder-image.jpeg"
+            ]
+        },
+        "habitat": {
+            "vi": "",
+            "en": ""
+        },
+        "fun_fact": {
+            "vi": "",
+            "en": ""
+        },
+        "warning": {
+            "vi": "",
+            "en": ""
+        },
+        "other_names": {
+            "vi": "",
+            "en": ""
+        },
+        "characteristics": {
+            "vi": "",
+            "en": ""
+        },
+        "reference_sources": {
+            "vi": [
+                ""
+            ],
+            "en": [
+                ""
+            ]
+        },
+        "secondary_name": {
+            "vi": "",
+            "en": ""
+        },
+        "taxonomy": {
+            "class": {
+                "vi": "",
+                "en": ""
+            },
+            "order": {
+                "vi": "",
+                "en": ""
+            },
+            "family": {
+                "vi": "",
+                "en": ""
+            },
+            "genus": {
+                "vi": "",
+                "en": ""
+            }
+        },
+        "identification_images": [
+            {
+                "image": "images/placeholder-image.jpeg",
+                "description": {
+                    "vi": "Text here",
+                    "en": "Text here"
+                }
+            }
+        ]
+    },
+    "Trachemys scripta": {
+        "scientific_name": "Trachemys scripta",
+        "reference_images": [
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg",
+            "images/placeholder-image.jpeg"
+        ],
+        "laws": {
+            "CITES": "",
+            "ND160": "",
+            "ND06": ""
+        },
+        "native": "false",
+        "artworks": [
+            "images/placeholder-image.jpeg"
+        ],
+        "conservation_status": {
+            "sdvn": "",
+            "iucn": "CR"
+        },
+        "primary_name": {
+            "vi": "",
+            "en": ""
+        },
+        "distribution": {
+            "vi": "",
+            "en": "",
+            "maps": [
+                "images/placeholder-image.jpeg"
+            ]
+        },
+        "habitat": {
+            "vi": "",
+            "en": ""
+        },
+        "fun_fact": {
+            "vi": "",
+            "en": ""
+        },
+        "warning": {
+            "vi": "",
+            "en": ""
+        },
+        "other_names": {
+            "vi": "",
+            "en": ""
+        },
+        "characteristics": {
+            "vi": "",
+            "en": ""
+        },
+        "reference_sources": {
+            "vi": [
+                ""
+            ],
+            "en": [
+                ""
+            ]
+        },
+        "secondary_name": {
+            "vi": "",
+            "en": ""
+        },
+        "taxonomy": {
+            "class": {
+                "vi": "",
+                "en": ""
+            },
+            "order": {
+                "vi": "",
+                "en": ""
+            },
+            "family": {
+                "vi": "",
+                "en": ""
+            },
+            "genus": {
+                "vi": "",
+                "en": ""
+            }
+        },
+        "identification_images": [
+            {
+                "image": "images/placeholder-image.jpeg",
+                "description": {
+                    "vi": "Text here",
+                    "en": "Text here"
+                }
+            }
+        ]
+    }
+}
