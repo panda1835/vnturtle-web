@@ -2,13 +2,7 @@
     "Platysternon megacephalum": {
         "scientific_name": "Platysternon megacephalum",
         "reference_images": [
-            "images/reference_images/Platysternon_megacephalum/Platysternon_megacephalum_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Platysternon_megacephalum/Platysternon_megacephalum_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "I",
@@ -31,7 +25,7 @@
             "vi": "Cambodia, miền Nam Trung Quốc, Lào, Myanmar, Thái Lan, Việt Nam",
             "en": "Cambodia, southern China, Laos, Myanmar, Thailand, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -88,45 +82,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Platysternon_megacephalum/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Cá thể non có yếm màu vàng cam và có sọc màu vàng nhạt trên đầu.",
+                    "en": "The juveniles have a yellowish-orange plastron and light yellow stripes on the head."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Platysternon_megacephalum/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai thuôn dài và dẹt.",
+                    "en": "The carapace is elongated and flat in shape."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Platysternon_megacephalum/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đuôi dài (2) gần bằng chiều dài thân.",
+                    "en": "The tail is long (2) and nearly as long as the body itself."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Platysternon_megacephalum/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu to, hàm trên kéo dài thành mỏ khác hẳn so với các loài rùa khác. Đầu to không thể thụt vào bên trong mai được (1).",
+                    "en": "The head is large, and the upper jaw extends into a distinct beak-like structure, which is quite different from other turtle species. The bulky head cannot be retracted fully into the shell (1)."
                 }
             }
         ]
@@ -134,13 +114,7 @@
     "Cuora amboinensis": {
         "scientific_name": "Cuora amboinensis kamaroma",
         "reference_images": [
-            "images/reference_images/Cuora_amboinensis/Cuora_amboinensis_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Cuora_amboinensis/Cuora_amboinensis_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -163,7 +137,7 @@
             "vi": "Bangladesh, Bhutan, Brunei, Cambodia, Ấn Độ, Indonesia, Malaysia, Lào, Myanmar (?), Philippines (?), Thái Lan, Việt Nam",
             "en": "Bangladesh, Bhutan, Brunei, Cambodia, India, Indonesia, Malaysia, Laos, Myanmar (?), Philippines (?), Thailand, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -220,45 +194,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_amboinensis/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai hình vòm giống như cái mũ bảo hiểm có màu xám đậm đến đen.",
+                    "en": "The carapace is dome-shaped, resembling a helmet, and is dark gray to black in color."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_amboinensis/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu và cổ có các sọc vàng (có một sọc vàng nổi bật kéo dài từ cổ đến mũi, phía trên mắt) (1). Các đường sọc từ hàm và mắt ghép lại với nhau ở phía tai (2) trước khi chạy dài xuống phần cổ phía dưới.",
+                    "en": "The head and neck have yellow stripes, with a prominent stripe extending from the neck to the tip of the snout, above the eyes (1). The striped patterns from the jaws and eyes converge at the ears (2) before running down along the lower neck."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_amboinensis/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Con non có các đặc điểm tương tự con trưởng thành.",
+                    "en": "Juveniles have similar characteristics to the adults."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_amboinensis/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm màu vàng và thường có những chấm đen trên từng tấm yếm cùng với tấm bản lề (3), cho phép rùa có thể  đóng kín cơ thể bên trong mai.",
+                    "en": "The yellow plastron often has black spots on each scute, along with the hinged scute (3), allowing the turtle to completely enclose its body inside the shell."
                 }
             }
         ]
@@ -266,13 +226,7 @@
     "Cuora galbinifrons": {
         "scientific_name": "Cuora galbinifrons",
         "reference_images": [
-            "images/reference_images/Cuora_galbinifrons/Cuora_galbinifrons_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Cuora_galbinifrons/Cuora_galbinifrons_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -295,7 +249,7 @@
             "vi": "miền Nam Trung Quốc, Lào, Việt Nam",
             "en": "Southern China, Laos, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -352,45 +306,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_galbinifrons/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm màu đen cho đến gần đen hoàn toàn và có bản lề (1) giúp rùa có thể đóng kín cơ thể bên trong mai.",
+                    "en": "The plastron is black to nearly black in color and has a hinged scute (1) that allows the turtle to completely enclose its body inside the shell."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_galbinifrons/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai gồ cao với các vệt màu đen khác nhau, các phần xung quanh thường sáng hơn ở giữa.",
+                    "en": "The carapace is tall and displays various black markings, with the areas surrounding them often being lighter in color compared to the center."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_galbinifrons/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Các đốm ở đâu của loài rùa hộp trán vàng miền Bắc rất khác nhau ở các cá thể khác nhau, không thể dùng để làm đặc điểm phân biệt.",
+                    "en": "The markings on the carapace of Indochinese Box Turtle vary greatly among different individuals and cannot be used as distinguishing features."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_galbinifrons/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Màu sắc của mai cũng rất khác nhau giữa các cá thể cùng loài.",
+                    "en": "The coloration of the carapace also varies greatly among individuals of the same species."
                 }
             }
         ]
@@ -398,13 +338,7 @@
     "Cuora bourreti": {
         "scientific_name": "Cuora bourreti",
         "reference_images": [
-            "images/reference_images/Cuora_bourreti/Cuora_bourreti_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Cuora_bourreti/Cuora_bourreti_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -427,7 +361,7 @@
             "vi": "Lào, Việt Nam",
             "en": "Laos, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -484,45 +418,24 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_bourreti/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai gồ cao với các vệt màu đen khác nhau, các vệt ở giữa đen hơn hai bên mai.",
+                    "en": "The carapace is elevated with various black markings, with the central markings being darker than those on the sides of the carapace."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_bourreti/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu rùa có màu sặc sỡ, màu vàng với những chấm đen nhạt có kích thước khác nhau.",
+                    "en": "The turtle's head is colorful, with a yellow base color and various light black spots of different sizes."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_bourreti/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm vàng, có đốm đen trên mỗi tấm yếm và có bản lề (1) giúp rùa có thể đóng kín cơ thể bên trong mai.",
+                    "en": "The plastron is yellow, with black spots on each scute, and it has a hinge (1) that allows the turtle to close its body inside the carapace."
                 }
             }
         ]
@@ -530,13 +443,7 @@
     "Cuora picturata": {
         "scientific_name": "Cuora picturata",
         "reference_images": [
-            "images/reference_images/Cuora_picturata/Cuora_picturata_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Cuora_picturata/Cuora_picturata_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -559,7 +466,7 @@
             "vi": "miền Trung Việt Nam",
             "en": "Central Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -616,45 +523,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_picturata/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm vàng, có đốm đen trên mỗi tấm có bản lề (1) giúp rùa có thể đóng kín cơ thể bên trong mai.",
+                    "en": "The yellow plastron with black spots on each hinged scute (1) allow the turtle to retract its body inside the shell."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_picturata/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai ngắn hơn, gồ cao hơn với các vệt màu đen khác nhau. Thường là không có màu đen (chỉ một vài đốm nhỏ xung quanh) ở phía rìa mai.",
+                    "en": "The carapace is shorter, higher, and displays various black markings. Generally, there is no black color (only a few small spots around) on the edge of the carapace."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_picturata/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Màu sắc của đầu và các chấm đen rất khác nhau giữa các cá thể trong cùng loài.",
+                    "en": "The coloration of the head and the black markings vary greatly among individuals of the same species."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_picturata/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Một ví dụ khác của loài rùa hộp trán vàng miền Nam.",
+                    "en": "Another example of the Southern Vietnam Box Turtle species"
                 }
             }
         ]
@@ -662,13 +555,7 @@
     "Cuora mouhotii": {
         "scientific_name": "Cuora mouhotii",
         "reference_images": [
-            "images/reference_images/Cuora_mouhotii/Cuora_mouhotii_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Cuora_mouhotii/Cuora_mouhotii_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -691,7 +578,7 @@
             "vi": "Bangladesh, Bhutan, Trung Quốc, Ấn Độ, Lào, Myanmar, Việt Nam, Thái Lan (?)",
             "en": "Bangladesh, Bhutan, China, India, Laos, Myanmar, Vietnam, Thailand (?)",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -748,45 +635,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_mouhotii/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai có màu nâu nhạt đến vàng nhạt, xám hoặc có những trường hợp màu đen. Phía cuối mai có các tấm rùa hình răng cưa, có ba gờ (1) rõ ràng chạy dọc mai, đỉnh mai phẳng (2). Các phía xung quanh thường tối màu hơn phía đỉnh.",
+                    "en": "The carapace is light brown to pale yellow, gray, or in some cases, black in color. Towards the rear of the carapace, there are serrated turtle scutes, with three distinct ridges (1) running along the length of the shell. The top of the carapace is flat (2). The areas surrounding the carapace are usually darker in color compared to the top."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_mouhotii/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm màu vàng có vệt màu đen ở rìa xen lẫn với các vạch tối màu. Tấm bản lề (3) giúp rùa có thể đóng một phần cơ thể khi chúng tác động.",
+                    "en": "The plastron is yellow in color with black markings along the edges, intermingled with darker streaks. The hinged scute (3) allows the turtle to partially close its body when necessary."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_mouhotii/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Rùa sa nhân trưởng thành thường có mắt màu đỏ.",
+                    "en": "Adult Keeled Box turtles often have red-colored eyes."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_mouhotii/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Rùa sa nhân chưa trưởng thành.",
+                    "en": "A juvenile Keeled Box turtle"
                 }
             }
         ]
@@ -794,13 +667,7 @@
     "Cuora cyclornata": {
         "scientific_name": "Cuora (trifasciata) cyclornata",
         "reference_images": [
-            "images/reference_images/Cuora_cyclornata/Cuora_cyclornata_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Cuora_cyclornata/Cuora_cyclornata_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -823,7 +690,7 @@
             "vi": "Trung Quốc, Lào, Việt Nam",
             "en": "China, Laos, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -880,45 +747,38 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_cyclornata/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai màu nâu đỏ với ba vạch đen trên đỉnh.",
+                    "en": "The carapace is reddish-brown in color with three black stripes on the top."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_cyclornata/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Tấm bản lề (1) trên yếm cho phép rùa có thể đóng một phần cơ thể bên trong mai.",
+                    "en": "The hinged scute (1) on the plastron allows the turtle to partially enclose its body inside the shell."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_cyclornata/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Ba vạch màu đen (2) dài trên mai là đặc điểm phân biệt loài rùa này với các loài khác.",
+                    "en": "The three long black stripes (2) on the carapace are distinguishing features that differentiate this turtle species from others."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_cyclornata/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Các chi và da thường có màu da cam.",
+                    "en": "The limbs and skin are typically orange in color."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cuora_cyclornata/04.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đỉnh đâu có màu vàng nhạt với các sọc đen ở hai bên mặt.",
+                    "en": "The dorsal area has a light yellow color with black stripes on both sides of the head."
                 }
             }
         ]
@@ -926,13 +786,7 @@
     "Cyclemys oldhamii": {
         "scientific_name": "Cyclemys oldhamii",
         "reference_images": [
-            "images/reference_images/Cyclemys_oldhamii/Cyclemys_oldhamii_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Cyclemys_oldhamii/Cyclemys_oldhamii_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -955,7 +809,7 @@
             "vi": "Cambodia, Trung Quốc, Lào, Myanmar, Thái Lan, Việt Nam",
             "en": "Cambodia, China, Laos, Myanmar, Thailand, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -1012,45 +866,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cyclemys_oldhamii/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai màu xám, nâu tối hoặc đen.",
+                    "en": "The carapace is gray, dark brown, or black in color."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cyclemys_oldhamii/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm màu đen. Cá thể trưởng thành có một bản lề (1) không đóng kín, nó cho phép đóng một phần cơ thể trong mai.",
+                    "en": "The plastron is black in color. In adult individuals, there is a single hinge (1) that is not fully closed, allowing for partial enclosure of the body inside the shell."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cyclemys_oldhamii/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Một ví dụ về cá thể rùa màu xám đen, đặc trưng cho hầu hết loài rùa đất Sê-pôn được tìm thấy trong các vụ buôn bán.",
+                    "en": "An example of a gray-black colored individual, characteristic of most Southern Asian Leaf Turtles commonly found in illegal trading."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cyclemys_oldhamii/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Rùa trưởng thành thường có các sọc màu đen nhạt xen kẽ các sọc màu cam ở cổ.",
+                    "en": "Adult turtles often have alternating light black stripes with orange stripes on their necks."
                 }
             }
         ]
@@ -1058,13 +898,7 @@
     "Cyclemys pulchristriata": {
         "scientific_name": "Cyclemys pulchristriata",
         "reference_images": [
-            "images/reference_images/Cyclemys_pulchristriata/Cyclemys_pulchristriata_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Cyclemys_pulchristriata/Cyclemys_pulchristriata_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -1087,7 +921,7 @@
             "vi": "Cambodia, Việt Nam",
             "en": "Cambodia, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -1144,45 +978,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cyclemys_pulchristriata/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai màu xám đến nâu.",
+                    "en": "The carapace is gray to brown in color."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cyclemys_pulchristriata/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Rùa trưởng thành thường có các sọc màu đen nhạt xen kẽ các sọc màu cam ở cổ.",
+                    "en": "Adult turtles often have alternating light black stripes with orange stripes on their necks."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cyclemys_pulchristriata/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm vàng, thường có những sọc ngắn trên các tấm. Rùa trưởng thành có bản lề (1) trên yếm cho phép chúng một phần cơ thể bên trong mai.",
+                    "en": "The plastron is yellow and often has short stripes on the scutes. Adult turtles have a hinge (1) on the plastron that allows them to partially enclose their body inside the shell."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cyclemys_pulchristriata/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Con chưa trưởng thành có nhiều đốm rõ ràng và sẽ nhạt dần theo độ tuổi.",
+                    "en": "Juvenile individuals have numerous distinct spots that tend to fade as they grow older."
                 }
             }
         ]
@@ -1190,13 +1010,7 @@
     "Cyclemys atripons": {
         "scientific_name": "Cyclemys atripons",
         "reference_images": [
-            "images/reference_images/Cyclemys_atripons/Cyclemys_atripons_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Cyclemys_atripons/Cyclemys_atripons_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -1219,7 +1033,7 @@
             "vi": "Cambodia, Thái Lan, Việt Nam",
             "en": "Cambodia, Thailand, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -1276,45 +1090,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cyclemys_atripons/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai gồ thấp, gờ giữa lưng rõ ràng. Màu mai nâu sáng hoặc nâu đen.",
+                    "en": "The carapace is relatively flat and has a distinct central ridge along the back. The color of the carapace can range from light brown to dark brown."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cyclemys_atripons/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Một ví dụ khác của loài rùa đất A-tri-pôn có mai màu nâu đất.",
+                    "en": "Another example of the Western black-bridged leaf turtle species with an earthy brown colored carapace."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cyclemys_atripons/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Cổ màu nâu với các sọc màu đen và cam xen kẽ. Bề rộng các sọc màu đen lớn hơn các sọc màu cam.",
+                    "en": "The neck is brown with alternating black and orange stripes. The black stripes are wider than the orange ones."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Cyclemys_atripons/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm có bản lề nhưng không đóng kín. Yếm vàng đậm. Mỗi tấm có các tia hình rẻ quạt màu đen, đôi khi không có.",
+                    "en": "The plastron has a hinge but is not fully closed. It is a deep yellow color. Each scute may have black fan-shaped rays, although sometimes they may be absent."
                 }
             }
         ]
@@ -1322,13 +1122,7 @@
     "Geoemyda spengleri": {
         "scientific_name": "Geoemyda spengleri",
         "reference_images": [
-            "images/reference_images/Geoemyda_spengleri/Geoemyda_spengleri_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Geoemyda_spengleri/Geoemyda_spengleri_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -1351,7 +1145,7 @@
             "vi": "Trung Quốc, Lào, Việt Nam",
             "en": "China, Laos, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -1408,45 +1202,38 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Geoemyda_spengleri/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm màu đen có 2 vệt màu vàng hai bên rìa, không có bản lề.",
+                    "en": "The plastron is black in color with two yellow stripes along the edges, and it lacks a hinged scute."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Geoemyda_spengleri/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Rùa trưởng thành có chiểu dài mai nhỏ hơn 11cm, mai có màu cam, nâu, xám hoặc màu nâu nhạt.",
+                    "en": "Adult turtles have a shell length of less than 11cm, and their shells can be orange, brown, gray, or light brown in color."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Geoemyda_spengleri/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Cá thể non của rùa đất Speng-lơ.",
+                    "en": "A juvenile Black-breasted Leaf Turtle."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Geoemyda_spengleri/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mắt lồi to, con ngươi tròn màu đen.",
+                    "en": "The eyes of the turtle are large, bulging, and round in shape. The eye pupils are typically black in color."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Geoemyda_spengleri/04.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Có ba gờ cao trên mai, viền mai sau có hình răng cưa (1).",
+                    "en": "The carapace of the turtle has three prominent ridges, and the posterior edge of the shell has a serrated or saw-like appearance (1)."
                 }
             }
         ]
@@ -1454,13 +1241,7 @@
     "Heosemys grandis": {
         "scientific_name": "Heosemys grandis",
         "reference_images": [
-            "images/reference_images/Heosemys_grandis/Heosemys_grandis_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Heosemys_grandis/Heosemys_grandis_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -1483,7 +1264,7 @@
             "vi": "Cambodia, Lào, Malaysia (bán đảo), Myanmar, Thái Lan, Việt Nam",
             "en": "Cambodia, Laos, Malaysia (Peninsular), Myanmar, Thailand, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -1540,45 +1321,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Heosemys_grandis/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm thường có màu vàng, có tia hình rẻ quạt (2) màu đen tỏa ra từ một góc của mỗi tấm yếm.",
+                    "en": "The plastron is typically yellow and has black fan-shaped rays (2) radiating from one corner of each scute."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Heosemys_grandis/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Gờ màu sáng trên sống lưng thể hiện rất rõ ở cá thể này.",
+                    "en": "The light-colored ridge on the dorsal surface is prominently visible in this individual."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Heosemys_grandis/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Cá thể trưởng thành thường có một gờ màu vàng nhạt (1) dọc sống lưng trên mai. Cá thể trưởng thành có chiều dài khoảng 48 cm.",
+                    "en": "Adult individuals typically have a light yellow ridge (1) running along the dorsal surface of the carapace. Adult individuals have a length of approximately 48 cm."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Heosemys_grandis/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu có những chấm màu cam và đen.",
+                    "en": "The head has orange and black spots."
                 }
             }
         ]
@@ -1586,13 +1353,7 @@
     "Heosemys annandalii": {
         "scientific_name": "Heosemys annandalii",
         "reference_images": [
-            "images/reference_images/Heosemys_annandalii/Heosemys_annandalii_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Heosemys_annandalii/Heosemys_annandalii_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -1615,7 +1376,7 @@
             "vi": "Cambodia, Lào, Malaysia (Peninsular), Thái Lan, Việt Nam",
             "en": "Cambodia, Laos, Malaysia (Peninsular), Thailand, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -1672,45 +1433,38 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Heosemys_annandalii/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai thuôn dài có màu xám đậm đến đen.",
+                    "en": "The carapace is elongated and has a dark gray to black color."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Heosemys_annandalii/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu có màu vàng nhạt có các đốm đen phân bố không đều và rất nhỏ so với mai.",
+                    "en": "The head is light yellow in color, with unevenly distributed small black spots that are much smaller in size compared to those on the carapace."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Heosemys_annandalii/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Cá thể non có vạch vàng trên đều (2) mất dần khi chúng lớn.",
+                    "en": "Juvenile individuals have consistent yellow stripes (2) on their bodies, which gradually fade as they mature."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Heosemys_annandalii/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Hàm có các khứa hình răng (1) nên được đặt tên là rùa răng.",
+                    "en": "Given the presence of tooth-like cusps (1) on their jaws, turtles with such characteristics are often referred to as 'Toothed Turtles'."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Heosemys_annandalii/04.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm đen hoàn toàn hoặc vàng xen kẽ các đốm đen.",
+                    "en": "The plastron is entirely black or has alternating black spots with yellow in between."
                 }
             }
         ]
@@ -1718,13 +1472,7 @@
     "Malayemys subtrijuga": {
         "scientific_name": "Malayemys subtrijuga",
         "reference_images": [
-            "images/reference_images/Malayemys_subtrijuga/Malayemys_subtrijuga_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Malayemys_subtrijuga/Malayemys_subtrijuga_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -1747,7 +1495,7 @@
             "vi": "Cambodia, Lào, Thái Lan (?), Việt Nam",
             "en": "Cambodia, Laos, Thailand (?), Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -1804,45 +1552,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Malayemys_subtrijuga/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai màu sẫm, có ba gờ rõ ràng.",
+                    "en": "The carapace is dark in color and has three distinct ridges."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Malayemys_subtrijuga/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu khá lớn, mắt có 3 vòng tròn màu trắng (1), có từ 4-5 sọc màu trắng ngà quanh mũi (2).",
+                    "en": "The head is relatively large, and the eyes have three white circles (1). There are 4-5 ivory-white stripes around the snout (2)."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Malayemys_subtrijuga/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Có 3 gờ trên lưng rất rõ ràng.",
+                    "en": "There are three prominent ridges on the shell."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Malayemys_subtrijuga/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm cứng, màu vàng, có những đốm đen khá lớn.",
+                    "en": "The plastron is hard, yellow in color, and has relatively large black spots."
                 }
             }
         ]
@@ -1850,13 +1584,7 @@
     "Mauremys annamensis": {
         "scientific_name": "Mauremys annamensis",
         "reference_images": [
-            "images/reference_images/Mauremys_annamensis/Mauremys_annamensis_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Mauremys_annamensis/Mauremys_annamensis_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -1879,7 +1607,7 @@
             "vi": "Central Việt Nam",
             "en": "Central Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -1936,45 +1664,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Mauremys_annamensis/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm có những vệt đậm màu đối xứng trên từng tấm yếm và có viền vàng xung quanh. Yếm không có bản lề.",
+                    "en": "The plastron has symmetrical dark-colored stripes on each scute, with a yellow border around them. The plastron does not have a hinge."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Mauremys_annamensis/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Cá thể non có bề ngoài giống cá thể trưởng thành.",
+                    "en": "Juvenile individuals have a similar external appearance to adult individuals."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Mauremys_annamensis/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai có hình ôvan, không gồ cao nhiều.",
+                    "en": "The carapace has an oval shape and is not highly elevated."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Mauremys_annamensis/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu có hai hoặc ba vạch màu vàng, có một vạch đi qua mắt (1).",
+                    "en": "The head has two or three yellow stripes, with one stripe passing through the eye (1)."
                 }
             }
         ]
@@ -1982,13 +1696,7 @@
     "Mauremys mutica": {
         "scientific_name": "Mauremys mutica",
         "reference_images": [
-            "images/reference_images/Mauremys_mutica/Mauremys_mutica_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Mauremys_mutica/Mauremys_mutica_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -2011,7 +1719,7 @@
             "vi": "Trung Quốc, Nhật Bản, Đài Loan, Việt Nam",
             "en": "China, Japan, Taiwan, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -2068,45 +1776,24 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Mauremys_mutica/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu màu nâu xám, hai bên má màu vàng nhạt. Trên đầu có hai sọc màu vàng nhạt.",
+                    "en": "Head is grayish-brown, with light yellow color on both sides of the cheeks. There are two light yellow stripes on the head."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Mauremys_mutica/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm màu vàng có các đốm đen ở mỗi tấm yếm.",
+                    "en": "Yellow plastron with black spots on each scute."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Mauremys_mutica/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai có màu nâu hoặc màu nâu gụ.",
+                    "en": "The carapace is brown or dark brown in color."
                 }
             }
         ]
@@ -2114,13 +1801,7 @@
     "Mauremys sinensis": {
         "scientific_name": "Mauremys sinensis",
         "reference_images": [
-            "images/reference_images/Mauremys_sinensis/Mauremys_sinensis_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Mauremys_sinensis/Mauremys_sinensis_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -2143,7 +1824,7 @@
             "vi": "Trung Quốc, Đài Loan, Việt Nam",
             "en": "China, Taiwan, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -2200,45 +1881,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Mauremys_sinensis/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai màu xanh xám đến đen.",
+                    "en": "The carapace is grayish-green to black in color."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Mauremys_sinensis/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm có màu tối, mỗi tấm yếm có những vết nối màu nhạt.",
+                    "en": "The plastron is dark in color, and each scute has lighter connecting marks."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Mauremys_sinensis/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu và chân trước có nhiều đường sọc mảnh (1) giúp phân biệt rùa cổ sọc với các loài rùa khác.",
+                    "en": "The head and forelimbs have numerous fine stripes (1), which help distinguish the Chinese striped-neck turtle from other turtle species."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Mauremys_sinensis/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Con non có các đặc điểm tương tự như con trưởng thành.",
+                    "en": "Juvenile individuals have similar characteristics to adult individuals."
                 }
             }
         ]
@@ -2246,13 +1913,7 @@
     "Sacalia quadriocellata": {
         "scientific_name": "Sacalia quadriocellata",
         "reference_images": [
-            "images/reference_images/Sacalia_quadriocellata/Sacalia_quadriocellata_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Sacalia_quadriocellata/Sacalia_quadriocellata_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -2275,7 +1936,7 @@
             "vi": "Trung Quốc, Lào, Việt Nam",
             "en": "China, Laos, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -2332,45 +1993,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Sacalia_quadriocellata/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai hình ô-van có màu xám đậm đến nâu, viền mai nhẵn.",
+                    "en": "The carapace is oval-shaped and has a dark gray to brown color, with smooth edges."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Sacalia_quadriocellata/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm có màu khác nhau tuỳ vào giới tính và độ tuổi của rùa. Yếm của cá thể cái thường có màu vàng nhạt hoặc màu kem, có thể có những vạch hoặc đốm đen, trong khi con đực có màu cam hoặc các đốm hơi đỏ.",
+                    "en": "The color of the plastron varies depending on the gender and age of the turtle. The plastron of female individuals is usually a light yellow or cream color and may have black stripes or spots, while in males, it is often orange or slightly red with spots."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Sacalia_quadriocellata/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Con đực và con cái đều có các đốm giống mắt ở trên đầu. Các đốm này ở con đực sẽ chuyển dần sang màu xanh khi chúng trưởng thành.",
+                    "en": "Both males and females have eye-like spots on the top of their heads. In males, these spots gradually transition to a green color as they mature."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Sacalia_quadriocellata/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu có bốn mắt giả (1). Cá thể đực có đốm màu xanh nhạt, cá thể cái và con non có màu vàng tươi.",
+                    "en": "The head has four false eyes (1). Male individuals have light green spots, while female individuals and juveniles have bright yellow coloration."
                 }
             }
         ]
@@ -2378,13 +2025,7 @@
     "Siebenrockiella crassicollis": {
         "scientific_name": "Siebenrockiella crassicollis",
         "reference_images": [
-            "images/reference_images/Siebenrockiella_crassicollis/Siebenrockiella_crassicollis_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Siebenrockiella_crassicollis/Siebenrockiella_crassicollis_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -2407,7 +2048,7 @@
             "vi": "Cambodia, Indonesia, Lào, Malaysia, Myanmar, Singapore, Thái Lan, Việt Nam",
             "en": "Cambodia, Indonesia, Laos, Malaysia, Myanmar, Singapore, Thailand, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -2464,45 +2105,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Siebenrockiella_crassicollis/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm màu đen hoặc gần đen toàn bộ với các đốm đậm bao phủ mỗi tấm yếm.",
+                    "en": "The plastron is entirely black or nearly black, with dark spots covering each scute."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Siebenrockiella_crassicollis/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Con non có các đặc điểm tương tự như con trưởng thành.",
+                    "en": "Juvenile individuals have similar features to adult individuals."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Siebenrockiella_crassicollis/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai có màu đen toàn bộ.",
+                    "en": "The carapace is completely black."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Siebenrockiella_crassicollis/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu có một chấm lớn màu trắng nhạt (1) phía sau mắt và một vài chấm mờ khác xung quanh miệng và cằm.",
+                    "en": "The head has a large pale white spot (1) behind the eye, and there are a few other faint spots around the mouth and chin."
                 }
             }
         ]
@@ -2510,13 +2137,7 @@
     "Indotestudo elongata": {
         "scientific_name": "Indotestudo elongata",
         "reference_images": [
-            "images/reference_images/Indotestudo_elongata/Indotestudo_elongata_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Indotestudo_elongata/Indotestudo_elongata_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -2539,7 +2160,7 @@
             "vi": "Bangladesh, Bhutan, Cambodia, Ấn Độ, Lào, Malaysia, Myanmar, Nepal, Thái Lan, Việt Nam",
             "en": "Bangladesh, Bhutan, Cambodia, India, Laos, Malaysia, Myanmar, Nepal, Thailand, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -2596,45 +2217,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Indotestudo_elongata/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Ví dụ về một cá thể lưng màu gần đen trên mai.",
+                    "en": "An example of an individual with a nearly black-colored carapace."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Indotestudo_elongata/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm màu vàng với các đốm đen.",
+                    "en": "The plastron is yellow with black spots."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Indotestudo_elongata/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai thuôn dài, có màu vàng và thường có các đốm đen ở mỗi tấm mai. Một số cá thể có mai hơi đen với viền màu nâu nhạt ở mỗi tấm mai.",
+                    "en": "The carapace is elongated and yellow in color, often with black spots on each scute. Some individuals may have slightly darker shells with light brown borders on each scute."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Indotestudo_elongata/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu màu vàng thẫm.",
+                    "en": "The head is a deep yellow color."
                 }
             }
         ]
@@ -2642,13 +2249,7 @@
     "Manouria impressa": {
         "scientific_name": "Manouria impressa",
         "reference_images": [
-            "images/reference_images/Manouria_impressa/Manouria_impressa_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Manouria_impressa/Manouria_impressa_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -2671,7 +2272,7 @@
             "vi": "Cambodia, Trung Quốc, Lào, Malaysia, Myanmar, Thái Lan, Việt Nam",
             "en": "Cambodia, China, Laos, Malaysia, Myanmar, Thailand, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -2728,45 +2329,38 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Manouria_impressa/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm rất khác nhau, có thể màu vàng kèm theo vài đốm đen, hoặc có thể có hình ngôi sao màu vàng hoặc có nhiều vệt lớn.",
+                    "en": "The plastron can vary significantly, ranging from yellow with a few black spots to having yellow star-shaped patterns or multiple large stripes."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Manouria_impressa/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Hai chân sau có 2 cái cựa (1) lồi ra giống đuôi nên thường gọi là rùa ba đuôi.",
+                    "en": "The hind legs have two prominent protrusions (1) resembling tails, which is why they are often referred to as the 'three-tailed turtle' in Vietnamese."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Manouria_impressa/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai có màu vàng nhạt đến nâu hoặc xám với các đường viền giống răng cưa ở viền mai trước và phía sau. Các tấm trên mai phẳng hoặc lõm xuống.",
+                    "en": "The carapace has a light yellow to brown or gray color, with serrated-like markings along the anterior and posterior edges. The scutes on the carapace can be either flat or slightly concave."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Manouria_impressa/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Một ví dụ về màu sắc khác của rùa núi viền.",
+                    "en": "An example of a different coloration of the Impressed tortoise."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Manouria_impressa/04.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu lớn, màu từ màu vàng nhạt tới màu xám đen. Chân trước lớn, có vảy dày.",
+                    "en": "The head is large and can range in color from pale yellow to dark gray. The forelimbs are large and have thick scales or scutes."
                 }
             }
         ]
@@ -2774,13 +2368,7 @@
     "Amyda ornata": {
         "scientific_name": "Amyda ornata",
         "reference_images": [
-            "images/reference_images/Amyda_ornata/Amyda_ornata_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Amyda_ornata/Amyda_ornata_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -2803,7 +2391,7 @@
             "vi": "Bangladesh, Cambodia, Ấn Độ, Lào, Myanmar, Thái Lan, Việt Nam",
             "en": "Bangladesh, Cambodia, India, Laos, Myanmar, Thailand, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -2858,61 +2446,12 @@
                 "en": ""
             }
         },
-        "identification_images": [
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            }
-        ]
+        "identification_images": []
     },
     "Palea steindachneri": {
         "scientific_name": "Palea steindachneri",
         "reference_images": [
-            "images/reference_images/Palea_steindachneri/Palea_steindachneri_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Palea_steindachneri/Palea_steindachneri_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -2935,7 +2474,7 @@
             "vi": "Trung Quốc, Việt Nam",
             "en": "China, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -2992,45 +2531,38 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Palea_steindachneri/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Cá thể non thường có một vệt trắng nhạt màu viền đen lớn từ phía sau mắt đến đầu.",
+                    "en": "Juvenile individuals often have a light white stripe with a prominent black border running from behind the eye to the head."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Palea_steindachneri/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Yếm gần như trắng toàn bộ, có vài vết mờ hoặc các vết lốm đốm.",
+                    "en": "The plastron is mostly white, with a few faint or speckled markings."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Palea_steindachneri/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai có màu nâu đến xám với nhiều nốt sần không đều.",
+                    "en": "The carapace has a brown to gray color with unevenly distributed rough or bumpy patches."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Palea_steindachneri/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Có mũi dài giống ba ba Nam Bộ và ba ba trơn.",
+                    "en": "The turtle has a long snout similar to that of a Asiatic softshell turtle or a Chinese softshell turtle."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Palea_steindachneri/04.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đặc điểm nhận dạng chính của ba ba gai là các vết gấp của da sần tạo thành đám sần ở cổ (1), quan sát rõ nhất khi chúng thò cổ dài.",
+                    "en": "The main distinguishing characteristic of the Wattle-necked softshell turtle is the folded and wrinkled skin that forms distinct ridges on the neck (1), which are most prominent when they extend their long necks."
                 }
             }
         ]
@@ -3038,13 +2570,7 @@
     "Pelochelys cantorii": {
         "scientific_name": "Pelochelys cantorii",
         "reference_images": [
-            "images/reference_images/Pelochelys_cantorii/Pelochelys_cantorii_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Pelochelys_cantorii/Pelochelys_cantorii_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -3067,7 +2593,7 @@
             "vi": "Bangladesh, Cambodia, Trung Quốc, Ấn Độ, Indonesia, Lào, Malaysia, Myanmar, Philippines, Thái Lan, Việt Nam",
             "en": "Bangladesh, Cambodia, China, India, Indonesia, Laos, Malaysia, Myanmar, Philippines, Thailand, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -3124,45 +2650,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Pelochelys_cantorii/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai hình tròn có màu nâu.",
+                    "en": "The carapace is round in shape and brown in color."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Pelochelys_cantorii/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Giải không có mũi dài như các loài rùa mai mểm khác và mặt giống mặt ếch.",
+                    "en": "The snout of the Cantor's Giant Softshell Turtle is not elongated like other species of box turtles, and its face resembles that of a frog."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Pelochelys_cantorii/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Vùng da xung quanh cổ (1) kéo dài ra phía sau cùng với phần rìa trước của mai.",
+                    "en": "The skin around the neck (1) extends backward along the anterior edge of the carapace."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Pelochelys_cantorii/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Toàn bộ yếm có màu trắng.",
+                    "en": "The entire plastron is white in color."
                 }
             }
         ]
@@ -3170,13 +2682,7 @@
     "Pelodiscus variegatus": {
         "scientific_name": "Pelodiscus variegatus",
         "reference_images": [
-            "images/reference_images/Pelodiscus_variegatus/Pelodiscus_variegatus_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Pelodiscus_variegatus/Pelodiscus_variegatus_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -3199,7 +2705,7 @@
             "vi": "Trung Quốc, Việt Nam",
             "en": "China, Vietnam",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -3256,45 +2762,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Pelodiscus_variegatus/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai thường có màu vàng nâu với các đốm màu đen lớn, có các gờ da liền mạch dọc mai. Phía sau mai thường có các nốt sần.",
+                    "en": "The carapace typically has a yellow-brown color with large black spots and continuous ridges running along the length of the shell. The posterior part of the carapace often has noticeable tubercles or bumps."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Pelodiscus_variegatus/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Cá thể trưởng thành có yếm màu trắng hồng với các đốm đen đậm đối xứng.",
+                    "en": "Adult individuals have a pinkish-white plastron with symmetrical dark black spots."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Pelodiscus_variegatus/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mũi dài giống ba ba trơn, phần dưới cằm và cổ có các đốm màu trắng ngà.",
+                    "en": "The snout is elongated, resembling that of a Chinese softshell turtle. The lower jaw and neck have ivory-white spots."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Pelodiscus_variegatus/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Cá thể non bụng có màu da cam với những đốm đen đối xứng.",
+                    "en": "Juvenile individuals have an orange belly with symmetrical black spots."
                 }
             }
         ]
@@ -3302,13 +2794,7 @@
     "Pelodiscus sinensis": {
         "scientific_name": "Pelodiscus sinensis",
         "reference_images": [
-            "images/reference_images/Pelodiscus_sinensis/Pelodiscus_sinensis_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Pelodiscus_sinensis/Pelodiscus_sinensis_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -3331,7 +2817,7 @@
             "vi": "Trung Quốc, Việt Nam, Đài Loan, Hàn Quốc, Nga, và Nhật Bản",
             "en": "Trung Quốc, Việt Nam, Đài Loan, Hàn Quốc, Nga, và Nhật Bản",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -3388,45 +2874,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Pelodiscus_sinensis/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai thường có màu xám ô-liu với các đốm màu đen nhỏ, có các gờ da không liền mạch dọc mai. Phía sau mai thường có các nốt sần.",
+                    "en": "The carapace is typically olive-gray in color with small black spots and non-contiguous ridges running along its length. The posterior part of the carapace often has rough knobs or bumps."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Pelodiscus_sinensis/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Cá thể trưởng thành có yếm màu trắng hoặc trắng hồng, không có hoặc có các đốm đen mờ.",
+                    "en": "Adult individuals have a plastron that is white or pinkish-white in color, with either no black spots or blurred black spots present."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Pelodiscus_sinensis/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Cá thể non bụng có màu trắng hổng với các đốm đen đối xứng.",
+                    "en": "Juvenile individuals have a white or cream-colored ventral side with symmetrical black spots."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Pelodiscus_sinensis/03.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mũi dài giống ba ba bụng đốm. Mép dưới miệng có các đốm nhỏ màu trắng ngà.",
+                    "en": "The snout is elongated, resembling a snout of a spotted softshell turtle. The lower edge of the mouth has small ivory-white spots."
                 }
             }
         ]
@@ -3434,13 +2906,7 @@
     "Rafetus swinhoei": {
         "scientific_name": "Rafetus swinhoei",
         "reference_images": [
-            "images/reference_images/Rafetus_swinhoei/Rafetus_swinhoei_thumbnail.jpg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg",
-            "images/placeholder-image.jpeg"
+            "images/reference_images/Rafetus_swinhoei/Rafetus_swinhoei_thumbnail.jpg"
         ],
         "laws": {
             "CITES": "",
@@ -3463,7 +2929,7 @@
             "vi": ":",
             "en": ":",
             "maps": [
-                "images/placeholder-image.jpeg"
+                
             ]
         },
         "habitat": {
@@ -3520,45 +2986,24 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Rafetus_swinhoei/00.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mũi ngắn hơn mũi một số loài rùa mai mềm khác.",
+                    "en": "The snout is shorter compared to the snouts of some other softshell turtle species."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Rafetus_swinhoei/01.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Đầu và cằm màu vàng với các đốm hoặc vằn màu đậm, ở trên đỉnh có màu tối hơn.",
+                    "en": "The head and chin are yellow in color, with dark spots or veins. The color on the top of the head may appear darker than the rest."
                 }
             },
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Rafetus_swinhoei/02.jpg",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
-                }
-            },
-            {
-                "image": "images/placeholder-image.jpeg",
-                "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai có màu nâu đến xám.",
+                    "en": "The carapace is typically brown to gray in color."
                 }
             }
         ]

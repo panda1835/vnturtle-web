@@ -740,10 +740,31 @@
         },
         "identification_images": [
             {
-                "image": "images/placeholder-image.jpeg",
+                "image": "images/identification_images/Trachemys_scripta/00.jpg.",
                 "description": {
-                    "vi": "Text here",
-                    "en": "Text here"
+                    "vi": "Mai có nhiều màu sắc và hoa văn. Các con già hơn có thể có mai màu xám tối hoặc đen với vài đốm.",
+                    "en": ""
+                }
+            },
+            {
+                "image": "images/identification_images/Trachemys_scripta/01.jpg.",
+                "description": {
+                    "vi": "Đặc điểm nổi bật: Có một vệt đỏ (1) chạy dọc hai bên đầu giúp phân biệt với các loài rùa khác.",
+                    "en": ""
+                }
+            },
+            {
+                "image": "images/identification_images/Trachemys_scripta/02.jpg.",
+                "description": {
+                    "vi": "Yếm màu vàng với các đốm tối trên mỗi tấm yếm.",
+                    "en": ""
+                }
+            },
+            {
+                "image": "images/identification_images/Trachemys_scripta/03.jpg.",
+                "description": {
+                    "vi": "Cá thể non có màu xanh nhạt kèm theo vệt đỏ tươi chạy dọc hai bên đầu.",
+                    "en": ""
                 }
             }
         ]
