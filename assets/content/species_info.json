@@ -24,38 +24,38 @@
         "distribution": {
             "vi": "Cambodia, miền Nam Trung Quốc, Lào, Myanmar, Thái Lan, Việt Nam",
             "en": "Cambodia, southern China, Laos, Myanmar, Thailand, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
             "vi": "Thác nước và suối chảy siết",
             "en": "Fast-flowing streams and waterfalls"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa đầu to là loài đang được pháp luật bảo vệ .... Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Big-headed Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "Rùa mỏ vẹt, Rùa lưng dẹp, Rùa đuôi dài",
-            "en": ""
+            "vi": "Rùa mỏ vẹt, Rùa lưng dẹp, Rùa đuôi dài.",
+            "en": "Update later."
         },
         "characteristics": {
             "vi": "Rùa cỡ trung bình nhỏ. Đầu to, không thụt vào trong mai được. Bên đầu có một vệt vàng nhạt chạy từ mắt tới cổ. Mỏ to, giống như mỏ chim vẹt. Mai rất dẹp, màu xám. Bụng màu vàng rất nhạt. Đuôi dài và to gần bằng dài thân. Lưng hình mái, cao ở đỉnh, có gờ rất rõ và thuôn xuống hai bên.",
-            "en": ""
+            "en": "A small to medium-sized turtle. It has a large head that cannot retract into the shell. There is a faint yellow stripe running from the eye to the neck on the side of the head. The beak is large and similar to that of a parrot. The shell is very flat and gray in color. The belly is very pale yellow. The tail is long and almost as long as the body. The back is arched, higher at the top, with a very pronounced and tapering ridge running down both sides."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -76,8 +76,8 @@
                 "en": "Platysternidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -117,9 +117,9 @@
             "images/reference_images/Cuora_amboinensis/Cuora_amboinensis_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -136,38 +136,38 @@
         "distribution": {
             "vi": "Bangladesh, Bhutan, Brunei, Cambodia, Ấn Độ, Indonesia, Malaysia, Lào, Myanmar (?), Philippines (?), Thái Lan, Việt Nam",
             "en": "Bangladesh, Bhutan, Brunei, Cambodia, India, Indonesia, Malaysia, Laos, Myanmar (?), Philippines (?), Thailand, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "khu vực đất trũng, ngập nước, ao, đàm lầy và thác nước chảy chậm",
+            "vi": "Khu vực đất trũng, ngập nước, ao, đàm lầy và thác nước chảy chậm",
             "en": "Lowland wetlands, ponds, marshes and slow-flowing streams"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa hộp lưng đen là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Malayan Box Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Rùa nắp lưng đen, Rùa hộp Đông Nam Á, Rùa hộp Mã Lai.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Cỡ trung bình, mai dài khoảng 200mm. Mai phồng, nhẵn. Gờ sống lưng rõ. Yếm gồm hai mảnh cử động được, bờ sau yếm không khuyết. Mai màu xám đen; yếm màu trắng đục, bờ ngoài các tấm ở yếm có vết xám đen. Có 3 sọc màu vàng nhạt ở bên đầu: 1 sọc chạy dài từ mút mõm qua mí mắt trên tới cổ, 2 sọc khác chạy từ mũi qua ổ mắt tới cổ.",
+            "en": "Medium-sized, with a carapace length of about 200mm. The carapace is domed and smooth, with a distinct dorsal ridge. The plastron consists of two movable pieces, and the posterior margin of the plastron is complete. The carapace is dark gray, while the plastron is translucent white with gray-black markings along the outer edges of the scutes. There are three faint yellow stripes on the head: one running from the snout, over the eye, to the neck, and two other stripes running from the nose, through the eye socket, to the neck."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -176,20 +176,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -229,9 +229,9 @@
             "images/reference_images/Cuora_galbinifrons/Cuora_galbinifrons_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
-            "ND160": "",
-            "ND06": ""
+            "CITES": "II",
+            "ND160": "x",
+            "ND06": "IB"
         },
         "native": "true",
         "artworks": [
@@ -246,40 +246,40 @@
             "en": "Indochinese Box Turtle"
         },
         "distribution": {
-            "vi": "miền Nam Trung Quốc, Lào, Việt Nam",
+            "vi": "Miền Nam Trung Quốc, Lào, Việt Nam",
             "en": "Southern China, Laos, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
             "vi": "Rừng thưa và rừng thường xanh từ độ cao trung bình trở lên",
             "en": "Woodlands and evergreen forests at mid- to high elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa hộp trán vàng miền Bắc là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Indochinese Box Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Rùa hộp, Rùa híp, Rùa trường sơn, Tu hạp hau (Tày), Tu tẩu (Tày).",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Cỡ trung bình, chiều dài mai khoảng 280mm. Mai cao, gồ hẳn lên. Yếm gồm hai mảnh cử động được, nửa yếm phía trước có thể khép kín lại được khi đầu thụt vào trong mai. Hai tấm vảy hậu môn của yếm gắn liền làm một. Mai màu nâu hoặc màu hạt dẻ, chính giữa lưng có một vệt dài, mảnh, màu vàng.",
+            "en": "Medium-sized, with a carapace length of approximately 280mm. The carapace is tall and strongly arched. The plastron consists of two movable pieces, and the anterior half of the plastron can be closed tightly when the head retreats into the carapace. The two posterior scutes of the plastron are fused together. The carapace is brown or hazel in color, with a long, narrow, yellow stripe running along the midline of the back."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -288,20 +288,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -341,9 +341,9 @@
             "images/reference_images/Cuora_bourreti/Cuora_bourreti_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
-            "ND160": "",
-            "ND06": ""
+            "CITES": "I",
+            "ND160": "x",
+            "ND06": "IB"
         },
         "native": "true",
         "artworks": [
@@ -360,38 +360,38 @@
         "distribution": {
             "vi": "Lào, Việt Nam",
             "en": "Laos, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "rừng thưa và rừng thường xanh từ độ cao trung bình trở lên",
+            "vi": "Rừng thưa và rừng thường xanh từ độ cao trung bình trở lên",
             "en": "Woodlands and evergreen forests at mid- to high elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa hộp trán vàng miền Trung là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Bourret's Box Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -400,20 +400,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -446,9 +446,9 @@
             "images/reference_images/Cuora_picturata/Cuora_picturata_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
-            "ND160": "",
-            "ND06": ""
+            "CITES": "I",
+            "ND160": "x",
+            "ND06": "IB"
         },
         "native": "true",
         "artworks": [
@@ -463,40 +463,40 @@
             "en": "Southern Vietnam Box Turtle"
         },
         "distribution": {
-            "vi": "miền Trung Việt Nam",
+            "vi": "Miền Trung Việt Nam",
             "en": "Central Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
             "vi": "Rừng thưa và rừng thường xanh từ độ cao trung bình trở lên",
             "en": "Woodlands and evergreen forests at mid- to high elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa hộp trán vàng miền Nam là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Southern Vietnam Box Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -505,20 +505,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -558,9 +558,9 @@
             "images/reference_images/Cuora_mouhotii/Cuora_mouhotii_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -577,38 +577,38 @@
         "distribution": {
             "vi": "Bangladesh, Bhutan, Trung Quốc, Ấn Độ, Lào, Myanmar, Việt Nam, Thái Lan (?)",
             "en": "Bangladesh, Bhutan, China, India, Laos, Myanmar, Vietnam, Thailand (?)",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
             "vi": "Rừng, hang động trên núi đá vôi",
             "en": "Limestone forests, caves and mountains"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa sa nhân là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Keeled Box Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Loài rùa cỡ trung bình này có mai dài 18cm, lưng phẳng có 3 gờ nổi rõ (nhưng không có vệt xám đen). Một gờ ở giữa lưng. Hai gờ chạy dọc từ tấm vẩy 1 đến 4 trên mai. Mai màu vàng hoặc nâu sáng; bờ sau mai có riềm răng cưa. Yếm hẹp hơn độ mở của mai. Đường nối tấm cánh táy xấp xỉ bằng đường nối của tấm họng. Đường nối tấm bụng dài nhất. Cầu ngắn bằng 1/3 bề dài của yếm. Con đực đuôi dài và dầy hơn con cái. Đầu trung bình, mõm ngắn hơn mắt. Da đầu phân chia thành các tấm lớn. Chi trước có 5 ngón và chi sau có 4 ngón. Mặt dưới các  chi có vảy khá lớn và chỉ có 1/2 màng. Mép tấm bìa và tấm dưới bìa có màu nâu đen. Đầu màu nâu vàng, bên đầu có vệt màu nâu đen nhạt xen với vệt màu trắng. Cằm nâu vàng, chân màu nâu đen, đuôi màu nâu sẫm, gốc đuôi có những hạt nhỏ.",
+            "en": "This medium-sized turtle species has a shell length of 18cm. The shell is flat and has three distinct ridges (but no black stripes). One ridge runs along the middle of the back, and the other two run vertically from the first to the fourth scute on the shell. The shell is yellow or light brown in color, and the posterior edge has serrations. The plastron is narrower than the width of the shell. The connection between the humeral scute is approximately equal to the connection between the abdominal scutes, with the latter being the longest. The bridge is about one-third the length of the plastron. Male individuals have longer and thicker tails compared to females. The head is of medium size, with a muzzle shorter than the eyes. The skin on the head is divided into large scales. The forelimbs have five digits, and the hind limbs have four digits. The undersides of the limbs have relatively large scales, and only half of each limb has webbing. The edges of the marginal and inframarginal scutes are blackish-brown. The head is yellowish-brown, with light blackish-brown and white stripes on the sides. The jaw is yellowish-brown, the limbs are blackish-brown, the tail is dark brown, and the base of the tail has small bumps."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -617,20 +617,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -670,9 +670,9 @@
             "images/reference_images/Cuora_cyclornata/Cuora_cyclornata_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
-            "ND160": "",
-            "ND06": ""
+            "CITES": "II",
+            "ND160": "x",
+            "ND06": "IB"
         },
         "native": "true",
         "artworks": [
@@ -689,38 +689,38 @@
         "distribution": {
             "vi": "Trung Quốc, Lào, Việt Nam",
             "en": "China, Laos, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "các con suối và đầm lầy từ độ cao thấp đến trung bình",
+            "vi": "Các con suối và đầm lầy từ độ cao thấp đến trung bình",
             "en": "Forest streams and marshes at low to mid-elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa hộp ba vạch là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Vietnamese Three-striped Box Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Rùa ba chỉ, Rùa đỏ, Rùa vàng.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Cỡ trung bình, chiều dài mai từ 170 - 200mm. Mai hơi dẹp, bờ sau không có răng cưa. Trên mai có 3 gờ (1 gờ sống lưng, 2 gờ bên). Yếm rùa gồm 2 mảnh cử động được, có thể khép kín vào mai. Lưng màu nâu có 3 vạch màu xám đen chạy dọc theo 3 gờ trên mai. Yếm màu xám đen, viền yếm màu đỏ nâu.",
+            "en": "It is a medium-sized turtle with a shell length ranging from 170 to 200mm. The shell is slightly flattened, and the posterior edge is smooth without serrations. There are three ridges on the shell, including one dorsal ridge and two lateral ridges. The turtle's plastron consists of two movable pieces that can close tightly against the shell. The back is brown in color and has three gray-black stripes running along the three ridges on the shell. The plastron is gray-black, with a reddish-brown border."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -729,20 +729,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -777,7 +777,7 @@
             {
                 "image": "images/identification_images/Cuora_cyclornata/04.jpg",
                 "description": {
-                    "vi": "Đỉnh đâu có màu vàng nhạt với các sọc đen ở hai bên mặt.",
+                    "vi": "Đỉnh đầu có màu vàng nhạt với các sọc đen ở hai bên mặt.",
                     "en": "The dorsal area has a light yellow color with black stripes on both sides of the head."
                 }
             }
@@ -789,9 +789,9 @@
             "images/reference_images/Cyclemys_oldhamii/Cyclemys_oldhamii_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -808,38 +808,38 @@
         "distribution": {
             "vi": "Cambodia, Trung Quốc, Lào, Myanmar, Thái Lan, Việt Nam",
             "en": "Cambodia, China, Laos, Myanmar, Thailand, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
             "vi": "Các con suối và đầm lầy từ độ cao thấp đến trung bình",
             "en": "Forest streams and marshes at low to mid-elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa đất Sê-pôn là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Southern Asian Leaf Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Rùa đất Sêpôn là loài có kích thước trung bình, mai rùa có thể dài đến 22cm; có một gờ giữa lưng nhưng không rõ rệt. mai màu xám nâu hoặc nâu sẫm. Có vài sọc màu hồng phía dưới cổ mở rộng về phía dưới ổ mắt đến tận mũi và cằm. Con đực có đuôi dài và dầy hơn con cái.",
+            "en": "The Southern Asian Leaf Turtle is a species of medium size, with a turtle shell that can reach up to 22cm in length. It has a slight ridge along the middle of the back, but it is not very pronounced. The shell is typically gray-brown or dark brown in color. There are several pink stripes extending from below the neck, expanding downwards towards the eye sockets, nose, and chin. Male turtles have longer and thicker tails compared to females."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -848,20 +848,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -901,9 +901,9 @@
             "images/reference_images/Cyclemys_pulchristriata/Cyclemys_pulchristriata_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -920,38 +920,38 @@
         "distribution": {
             "vi": "Cambodia, Việt Nam",
             "en": "Cambodia, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
             "vi": "Các con suối và đầm lầy từ độ cao thấp đến trung bình",
             "en": "Forest streams and marshes at low to mid-elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa đất Pul-kin là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Eastern Black-bridged Leaf Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -960,20 +960,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -1013,7 +1013,7 @@
             "images/reference_images/Cyclemys_atripons/Cyclemys_atripons_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
             "ND06": ""
         },
@@ -1032,60 +1032,60 @@
         "distribution": {
             "vi": "Cambodia, Thái Lan, Việt Nam",
             "en": "Cambodia, Thailand, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
             "vi": "Các con suối và đầm lầy từ độ cao thấp đến trung bình",
             "en": "Forest streams and marshes at low to mid-elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa đất a-tri-pôn là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Western Black-Bridged Leaf Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
             "vi": "Western Black-Bridged Leaf Turtle",
-            "en": "Rùa đất a-tri-pôn"
+            "en": "Rùa đất A-tri-pôn"
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -1125,9 +1125,9 @@
             "images/reference_images/Geoemyda_spengleri/Geoemyda_spengleri_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -1144,38 +1144,38 @@
         "distribution": {
             "vi": "Trung Quốc, Lào, Việt Nam",
             "en": "China, Laos, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
             "vi": "Rừng thường xanh từ độ cao trung bình",
             "en": "Montane forests at mid- to high elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa đất Speng-lơ là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Black-breasted Leaf Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Loài rùa đất Speng-lơ là loài rùa cỡ nhỏ, có mai dài, phẳng, hẹp với 3 gờ nổi mũi hếch có các nhánh rõ ràng trên viền mai phía sau, hàm trên cong dạng mỏ, mắt to. Yếm sẫm màu, có viền vàng kích thước mai khoảng 11,5cm.",
+            "en": "The Black-breasted Leaf Turtle is a small-sized turtle species with a long, flat, and narrow shell. The shell has three prominent ridges that extend from the hinged snout to the posterior edge of the shell, forming distinct branches along the shell's rim. The upper jaw is curved like a beak, and the eyes are large. The plastron is dark in color, with a yellow border. The shell length of this species is approximately 11.5cm."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -1184,20 +1184,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -1244,9 +1244,9 @@
             "images/reference_images/Heosemys_grandis/Heosemys_grandis_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -1263,38 +1263,38 @@
         "distribution": {
             "vi": "Cambodia, Lào, Malaysia (bán đảo), Myanmar, Thái Lan, Việt Nam",
             "en": "Cambodia, Laos, Malaysia (Peninsular), Myanmar, Thailand, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
             "vi": "Sông, suối, đầm lầy và vùng đất ngập nước ở độ cao thấp đến trung bình",
             "en": "Rivers, streams, marshes, and wetlands at low to mid-elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa đất lớn là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Giant Asian Pond Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Cỡ lớn, chiều dài mai tới 400mm. Mai cao, có 1 gờ sống lưng. Bờ sau mai có răng cưa rõ. Đặc biệt, tấm bìa 1 thường có góc lồi khỏi bờ mai rõ ràng và có hình tam giác. Bờ trước yếm gần như thẳng, bờ sau yếm khuyết. Đuôi rất ngắn. Mai rùa màu nâu thẫm. Yếm màu vàng nhạt hay nâu nhạt, các tấm yếm có những tia màu nâu sẫm hay đen từ những chấm đen trên từng tấm yếm.",
+            "en": "A large-sized turtle, with a carapace length of up to 400mm. The carapace is tall and has a prominent dorsal ridge. The posterior margin of the shell has distinct serrations. Particularly, the first scute often has a clearly protruding triangular shape from the edge of the carapace. The anterior margin of the plastron is nearly straight, while the posterior margin is incomplete. The tail is very short. The turtle's shell is a dark brown color. The plastron is light yellow or light brown, with dark brown or black markings extending from the black spots on each scute."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -1303,20 +1303,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -1356,9 +1356,9 @@
             "images/reference_images/Heosemys_annandalii/Heosemys_annandalii_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -1375,38 +1375,38 @@
         "distribution": {
             "vi": "Cambodia, Lào, Malaysia (Peninsular), Thái Lan, Việt Nam",
             "en": "Cambodia, Laos, Malaysia (Peninsular), Thailand, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "sông, ao chảy chậm, vùng đất ngập nước",
+            "vi": "Sông, ao chảy chậm, vùng đất ngập nước",
             "en": "Slow-flowing rivers, ponds and wetlands"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa răng là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Yellow-headed Temple Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Càng đước (Nam Bộ).",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Cơ thể lớn, chiều dài mai tới 470mm. Rùa răng có mỏ làm thành 2 mấu nhọn hình răng ở hàm trên. Mai phồng, thuôn dài, bờ sau mai không có răng cưa. Bờ trước yếm lồi, bờ sau yếm khuyết, bờ bên phần sau yếm thẳng. Chân dẹp, ngón chân có màng da. Mai màu nâu thẫm hay đen. Đầu xám có những vết đốm đen và vàng, hàm màu vàng.",
+            "en": "It is a large turtle, with a shell length of up to 470mm. The turtle has a beak-like mouth with two sharp tooth-like projections on the upper jaw. The shell is swollen and elongated, with a smooth posterior edge. The anterior edge of the plastron is convex, while the posterior edge is concave, and the posterior sides of the plastron are straight. The limbs are flattened, and the toes have webbing. The shell is dark brown or black in color. The head is gray with black and yellow spots, and the jaw is yellow."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -1415,20 +1415,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -1475,9 +1475,9 @@
             "images/reference_images/Malayemys_subtrijuga/Malayemys_subtrijuga_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -1494,38 +1494,38 @@
         "distribution": {
             "vi": "Cambodia, Lào, Thái Lan (?), Việt Nam",
             "en": "Cambodia, Laos, Thailand (?), Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
             "vi": "Ao, suối, đầm lầy và vùng đất ngập nước ở độ cao thấp",
             "en": "Ponds, streams, swamps, marshes, and wetlands at low elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa ba gờ là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Mekong Snail-eating Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Cỡ trung bình, chiều dài mai tới 210mm. Trên mai có 3 gờ rõ ràng, bờ sau mai không có răng cưa. Bờ trước yếm gần thẳng, bờ sau yếm lõm. Đầu to, có sọc màu vàng (1 sọc từ mút mõm qua phía trên ổ mắt về phía cổ, 1 sọc từ mũi qua phía dưới ổ mắt tới cổ và 1 đốm trắng ở phía sau ổ mắt). Mai màu nâu sáng hoặc sẫm, đôi khi nâu đỏ, rìa mai màu trắng đục hay vàng rất nhạt. Yếm vàng nhạt có những đốm xám đen trên từng tấm yếm.",
+            "en": "It is a medium-sized turtle with a carapace length of up to 210mm. The shell has three distinct ridges, and the posterior margin of the shell lacks serrations. The anterior margin of the plastron is nearly straight, while the posterior margin is concave. It has a large head with yellow stripes: one stripe runs from the tip of the snout above the eye to the neck, another stripe runs from the nose below the eye to the neck, and there is a white spot behind the eye. The shell is light or dark brown, sometimes reddish, with a translucent white or very pale yellow edge. The plastron is light yellow with black spots on each scute."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -1534,20 +1534,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -1587,9 +1587,9 @@
             "images/reference_images/Mauremys_annamensis/Mauremys_annamensis_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
-            "ND160": "",
-            "ND06": ""
+            "CITES": "I",
+            "ND160": "x",
+            "ND06": "IB"
         },
         "native": "true",
         "artworks": [
@@ -1606,38 +1606,38 @@
         "distribution": {
             "vi": "Central Việt Nam",
             "en": "Central Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "ao, hồ, vùng đất ngập nước, suối chảy chậm ở độ cao thấp",
+            "vi": "Ao, hồ, vùng đất ngập nước, suối chảy chậm ở độ cao thấp",
             "en": "Ponds, marshes, wetlands and slow-moving streams at low elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa Trung Bộ là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Vietnamese Pond Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Cỡ trung bình, chiều dài mai khoảng 170mm. Mai hơi dẹp, sau mai không có răng cưa, trên mai có 3 gờ chạy dọc, gờ giữa lưng rõ nhất. Đầu màu nâu sẫm hoặc xám đen, mỗi bên có 3 sọc màu vàng: 1 sọc từ sau mũi qua phía trên ổ mắt tới cổ, 1 sọc khác lớn hơn từ mũi qua ổ mắt và màng nhĩ tới cổ và 1 sọc chạy dọc phía dưới hàm tới cổ. Mai màu xám sẫm, yếm màu vàng hay da cam, có những đốm lớn màu đen ở mỗi tấm yếm.",
+            "en": "It is a medium-sized turtle with a shell length of approximately 170mm. The shell is slightly flattened, and the posterior edge does not have serrations. There are three distinct ridges running vertically on the shell, with the middle ridge being the most prominent. The head is dark brown or blackish-gray, with three yellow stripes on each side. One stripe runs from behind the nostril over the eye socket to the neck, another larger stripe runs from the nostril over the eye socket and tympanum to the neck, and there is a stripe running vertically below the jaw to the neck. The shell is dark gray in color, and the plastron is yellow or orange, with large black spots on each scute."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -1646,20 +1646,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -1699,9 +1699,9 @@
             "images/reference_images/Mauremys_mutica/Mauremys_mutica_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -1718,38 +1718,38 @@
         "distribution": {
             "vi": "Trung Quốc, Nhật Bản, Đài Loan, Việt Nam",
             "en": "China, Japan, Taiwan, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "ao, hồ, đầm lầy, vùng đất ngập nước và suối chảy chậm",
+            "vi": "Ao, hồ, đầm lầy, vùng đất ngập nước và suối chảy chậm",
             "en": "Ponds, marshes, wetlands and slow-moving streams"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa câm là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Asian Yellow Pond Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -1758,20 +1758,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -1804,7 +1804,7 @@
             "images/reference_images/Mauremys_sinensis/Mauremys_sinensis_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "III",
             "ND160": "",
             "ND06": ""
         },
@@ -1823,38 +1823,38 @@
         "distribution": {
             "vi": "Trung Quốc, Đài Loan, Việt Nam",
             "en": "China, Taiwan, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "sông, ao, hồ và vùng đất ngập nước ở độ cao thấp",
+            "vi": "Sông, ao, hồ và vùng đất ngập nước ở độ cao thấp",
             "en": "Rivers, ponds and wetlands at low elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa cổ sọc là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Chinese Striped-neck Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Đầu bé, mõm ngắn hơn mắt, vượt qua hàm dưới. Hàm trên có lõm ở giữa. Chi trước 5 ngón chi sau 4 ngón, các ngón có màng hoàn toàn. Mai màu nâu, yếm nhạt, có các vệt nâu sẫm ở các tấm. Bên đầu có những sọc đen, trắng xen kẽ sọc nâu. Họng có những sọc nâu nhạt hay nâu hồng. Trên các ngón có vệt màu trắng đục. Phần thân sau và đuôi có các vệt tạo thành đường liên tục hay gián đoạn.",
+            "en": "The head is small, with a muzzle shorter than the eyes, extending beyond the lower jaw. The upper jaw has a concave shape in the middle. The forelimbs have five digits, while the hind limbs have four digits, all of which are fully webbed. The shell is brown in color, and the plastron is light with dark brown markings on the scutes. There are alternating black and white stripes on the sides of the head, with brown stripes in between. The throat has light brown or pinkish stripes. The digits have translucent white markings. The posterior part of the body and the tail have continuous or interrupted markings."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -1863,20 +1863,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -1916,9 +1916,9 @@
             "images/reference_images/Sacalia_quadriocellata/Sacalia_quadriocellata_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -1935,38 +1935,38 @@
         "distribution": {
             "vi": "Trung Quốc, Lào, Việt Nam",
             "en": "China, Laos, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "suối trong rừng thường xanh",
+            "vi": "Suối trong rừng thường xanh",
             "en": "Woodland streams in montane forests"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa bốn mắt là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Four-eyed Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Loài rùa đất có kích thước nhỏ, có mai dài, vòm, hẹp với một gờ nổi rất rõ ở sống lưng, mai thấp, viền mai nhẵn, kích thước mai khoảng 12 -15cm. Đầu nhỏ, thò thụt vào được, phần gáy có 2 hoặc 4 đốm vàng tươi hoặc màu trắng đục và có một chấm đen ở giữa. Cổ có 3 sọc màu trắng nhạt ở mỗi bên . Đuôi ngắn. Yếm màu nâu nhạt.",
+            "en": "This species of land turtle is small in size, with a long, arched, and narrow shell. The shell has a very prominent ridge along the dorsal ridge, and it is low with a smooth edge. The shell size is approximately 12-15cm. The head is small and can retract into the shell. The neck has two or four bright yellow or translucent white spots, with a black dot in the center. There are three light white stripes on each side of the neck. The tail is short. The plastron is light brown in color."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -1975,20 +1975,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -2028,9 +2028,9 @@
             "images/reference_images/Siebenrockiella_crassicollis/Siebenrockiella_crassicollis_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -2047,38 +2047,38 @@
         "distribution": {
             "vi": "Cambodia, Indonesia, Lào, Malaysia, Myanmar, Singapore, Thái Lan, Việt Nam",
             "en": "Cambodia, Indonesia, Laos, Malaysia, Myanmar, Singapore, Thailand, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "suối, sông chảy chậm, ao và đầm lầy",
+            "vi": "Suối, sông chảy chậm, ao và đầm lầy",
             "en": "Slow-flowing rivers, streams, ponds and marshes"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa cổ bự là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Black Marsh Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Đầu sẫm màu có một khoang trắng hoặc phớt vàng về phía sau mỗi mắt. Đầu rộng có hàm cong (gần giống dạng cười). Mai màu đen tuyền. Yếm màu nâu đen và có các chùm tia hình dẻ quạt màu đen hoặc yếm màu đen tuyền. Kích thước mai có thể đến 20cm. Những cá thể còn non có màu sắc giống như các cá thể trưởng thành.",
+            "en": "The head is dark-colored with a white or yellowish patch behind each eye. It has a wide head with a curved jaw, resembling a smiling expression. The shell is a deep black color. The plastron is dark brown and has clusters of fan-shaped black markings or is a deep black color itself. The shell size can reach up to 20cm. Juveniles have a similar coloration to that of adult individuals."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -2087,20 +2087,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa đầm (Geoemydidae)",
+                "en": "Geoemydidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -2140,9 +2140,9 @@
             "images/reference_images/Indotestudo_elongata/Indotestudo_elongata_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -2159,38 +2159,38 @@
         "distribution": {
             "vi": "Bangladesh, Bhutan, Cambodia, Ấn Độ, Lào, Malaysia, Myanmar, Nepal, Thái Lan, Việt Nam",
             "en": "Bangladesh, Bhutan, Cambodia, India, Laos, Malaysia, Myanmar, Nepal, Thailand, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "Forests, grasslands and scrublands at low-mid elevations",
+            "vi": "Sống trên cạn, ở các vùng đồi núi cao",
             "en": "Forests, grasslands and scrublands at low-mid elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa núi vàng là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Elongated Tortoise is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Rùa gối.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Cơ thể cỡ trung bình, chiều dài mai khoảng 275mm. Trên đầu có nhiều tấm sừng. Mai gồ cao, đôi khi hơi thắt ở giữa. Phía trước yếm phẳng, phía sau yếm lõm sâu. Con đực có đuôi dài, cứng, yếm lõm sâu; con cái có đuôi ngắn, yếm phẳng. Chân hình trụ, ngón chân không có màng da. Mai màu vàng, giữa mỗi tấm vảy có đốm đen.",
+            "en": "The body is of medium size, with a shell length of about 275mm. There are multiple horn plates on the head. The shell is tall, sometimes slightly constricted in the middle. The anterior part of the plastron is flat, while the posterior part is deeply concave. Males have long, rigid tails with deep concavities in the plastron, while females have shorter tails with flat plastrons. The limbs are cylindrical in shape, and the toes do not have webbing. The shell is yellow, with black spots on each scale."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -2199,20 +2199,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa cạn/ rùa núi (Testudinidae)",
+                "en": "Testudinidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -2252,9 +2252,9 @@
             "images/reference_images/Manouria_impressa/Manouria_impressa_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -2271,38 +2271,38 @@
         "distribution": {
             "vi": "Cambodia, Trung Quốc, Lào, Malaysia, Myanmar, Thái Lan, Việt Nam",
             "en": "Cambodia, China, Laos, Malaysia, Myanmar, Thailand, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "đồi núi và rừng thường xanh từ độ cao trung bình",
+            "vi": "Đồi núi và rừng thường xanh từ độ cao trung bình",
             "en": "Hilly and montane forests at mid-to high elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Rùa núi viền là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Impressed Tortoise is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Rùa ba chân.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Cỡ trung bình, chiều dài mai khoảng 180 - 206mm. Trên đầu có nhiều tấm sừng. Mai không gồ cao, những tấm vảy ở giữa mai phẳng. Phía trước và phía sau mai có những gai hình răng cưa nhọn và cong lên. Phía trước và sau yếm lõm sâu hình chữ V. Chân hình trụ, ngón chân không có màng da. Mai có những tấm vảy màu nâu nhạt, viền đen. Yếm màu vàng có các tia phóng xạ màu nâu sẫm.",
+            "en": "It is a medium-sized turtle with a shell length ranging from 180 to 206mm. There are multiple horn plates on the head. The shell is not tall, and the scales in the middle of the shell are flat. The anterior and posterior edges of the shell have sharp, saw-like spikes that curve upward. The anterior and posterior parts of the plastron have deep V-shaped concavities. The limbs are cylindrical in shape, and the toes do not have webbing. The shell has light brown scales with black borders. The plastron is yellow with dark brown radiating rays."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -2311,20 +2311,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa cạn/ rùa núi (Testudinidae)",
+                "en": "Testudinidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -2371,9 +2371,9 @@
             "images/reference_images/Amyda_ornata/Amyda_ornata_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -2390,38 +2390,38 @@
         "distribution": {
             "vi": "Bangladesh, Cambodia, Ấn Độ, Lào, Myanmar, Thái Lan, Việt Nam",
             "en": "Bangladesh, Cambodia, India, Laos, Myanmar, Thailand, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "sông, hồ và suối",
+            "vi": "Sông, hồ và suối",
             "en": "Various lakes, streams and rivers"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Ba ba Nam bộ là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Asiatic Softshell Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Cua đinh (Nam Bộ).",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Cơ thể lớn, chiều dài mai tới 830mm. Có những nốt sần nhỏ, tròn xếp thành hàng dọc theo bờ trước của mai. Trên mai phủ một lớp da mỏng, rải đều có những nốt sần rất nhỏ. Đầu xám nhạt, lấm tấm những vết vàng nhỏ. Mai màu nâu hoặc xám, có những vết đốm màu vàng và xám đen; ở cá thể non có rất nhiều chấm vàng.",
+            "en": "It is a large softshell turtle, with a shell length that can reach up to 830mm. There are small, rounded rough spots arranged in vertical rows along the anterior edge of the shell. The shell is covered with a thin layer of skin, and there are evenly distributed tiny rough spots. The head is light gray, with small yellow markings. The shell is brown or gray in color, with yellow and gray-black spots. Juvenile individuals have numerous yellow spots."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -2430,20 +2430,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa mai mềm/ ba ba (Trionychidae)",
+                "en": "Trionychidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": []
@@ -2454,9 +2454,9 @@
             "images/reference_images/Palea_steindachneri/Palea_steindachneri_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
+            "CITES": "II",
             "ND160": "",
-            "ND06": ""
+            "ND06": "IIB"
         },
         "native": "true",
         "artworks": [
@@ -2473,38 +2473,38 @@
         "distribution": {
             "vi": "Trung Quốc, Việt Nam",
             "en": "China, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "suối, sông, hồ, ao và đầm lầy ở độ cao thấp đến trung bình",
+            "vi": "Suối, sông, hồ, ao và đầm lầy ở độ cao thấp đến trung bình",
             "en": "Streams, rivers, lakes, ponds and marshes at low-mid elevations"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Ba ba gai là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Wattle-necked Softshell Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Ba ba núi.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Cỡ lớn, chiều dài mai có thể tới 430mm. Ở mỗi bên cổ, gần thân có 1 đám nốt sần. Mai phủ lớp da mỏng, viền trước bờ mai có 1 hàng nốt sần nhỏ. Phần cuối mai có những nốt sần to. Trên đầu có những sọc đen mảnh. Mai mầu xám nhạt, lấm tấm có những vết đen.",
+            "en": "It is a large softshell turtle, with a shell length that can reach up to 430mm. On each side of the neck, near the body, there is a cluster of rough spots. The shell is covered with a thin layer of skin, and the anterior edge of the shell has a row of small rough spots. The posterior part of the shell has larger rough spots. There are fine black stripes on the head. The shell is a light gray color, and the scutes have black markings."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -2513,20 +2513,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa mai mềm/ ba ba (Trionychidae)",
+                "en": "Trionychidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -2573,9 +2573,9 @@
             "images/reference_images/Pelochelys_cantorii/Pelochelys_cantorii_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
-            "ND160": "",
-            "ND06": ""
+            "CITES": "II",
+            "ND160": "x",
+            "ND06": "IB"
         },
         "native": "true",
         "artworks": [
@@ -2592,38 +2592,38 @@
         "distribution": {
             "vi": "Bangladesh, Cambodia, Trung Quốc, Ấn Độ, Indonesia, Lào, Malaysia, Myanmar, Philippines, Thái Lan, Việt Nam",
             "en": "Bangladesh, Cambodia, China, India, Indonesia, Laos, Malaysia, Myanmar, Philippines, Thailand, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "sông, hồ lớn và vùng nước gần biển",
+            "vi": "Sông, hồ lớn và vùng nước gần biển",
             "en": "Large rivers, lakes and coastal waters"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Giải là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Cantor's Giant Softshell Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Giải khổng lồ, Con trạch (Nam Bộ), Giải (Bắc Bộ).",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -2632,20 +2632,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa mai mềm/ ba ba (Trionychidae)",
+                "en": "Trionychidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -2704,38 +2704,38 @@
         "distribution": {
             "vi": "Trung Quốc, Việt Nam",
             "en": "China, Vietnam",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "sông, suối, hồ, ao và đầm lấy",
+            "vi": "Sông, suối, hồ, ao và đầm lấy",
             "en": "Rivers, streams, lakes, ponds and wetlands"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Ba ba bụng đốm là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Spotted Softshell Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -2744,20 +2744,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa mai mềm/ ba ba (Trionychidae)",
+                "en": "Trionychidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -2815,39 +2815,39 @@
         },
         "distribution": {
             "vi": "Trung Quốc, Việt Nam, Đài Loan, Hàn Quốc, Nga, và Nhật Bản",
-            "en": "Trung Quốc, Việt Nam, Đài Loan, Hàn Quốc, Nga, và Nhật Bản",
-            "maps": [
-                
-            ]
+            "en": "China, Vietnam, Taiwan, South Korea, Russia, and Japan.",
+            "maps": []
         },
         "habitat": {
-            "vi": "sông, suối, hồ, ao và các khu vực đất ngập nước",
-            "en": "sông, suối, hồ, ao và các khu vực đất ngập nước"
+            "vi": "Sông, suối, hồ, ao và các khu vực đất ngập nước",
+            "en": "Rivers, streams, lakes, ponds, and wetland areas."
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": "Text here"
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Ba ba trơn là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Chinese softshell turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Loài rùa mai mềm có kích thước trung bình. Chiều dài mai đến 45cm. Lỗ mũi dài hơn miệng, da lưng trơn màu xám xanh với những chấm đen to. Đầu có nhiều vạch và chấm đen nhỏ, hay có nhiều đốm màu trắng, đầu có mô mềm, cổ rất dài. Bụng màu trắng đục và có nhiều chấm màu xám lớn. Chân có cá ngón, giữa các ngón có màng bơi nối liền.",
+            "en": "It is a medium-sized softshell turtle. The shell length can reach up to 45cm. The nostrils are longer than the mouth, and the smooth back skin is grayish-green with large black spots. The head has numerous stripes and small black spots, and it may also have white spots. The head is soft, and the neck is very long. The ventral side is whitish and opaque, with large gray spots. The limbs have webbed toes, and there is connected webbing between the toes."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -2856,20 +2856,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa mai mềm/ ba ba (Trionychidae)",
+                "en": "Trionychidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [
@@ -2909,9 +2909,9 @@
             "images/reference_images/Rafetus_swinhoei/Rafetus_swinhoei_thumbnail.jpg"
         ],
         "laws": {
-            "CITES": "",
-            "ND160": "",
-            "ND06": ""
+            "CITES": "II",
+            "ND160": "x",
+            "ND06": "IB"
         },
         "native": "true",
         "artworks": [
@@ -2928,38 +2928,38 @@
         "distribution": {
             "vi": ":",
             "en": ":",
-            "maps": [
-                
-            ]
+            "maps": []
         },
         "habitat": {
-            "vi": "sông, hồ lớn và vùng đất ngập nước",
+            "vi": "Sông, hồ lớn và vùng đất ngập nước",
             "en": "Large rivers, lakes and wetlands"
         },
         "fun_fact": {
-            "vi": "Text here",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "warning": {
             "vi": "Giải Sin-hoe (rùa Hoàn Kiếm) là loài đang được pháp luật bảo vệ. Nếu bạn bắt gặp hành vi buôn bán hãy báo cáo cho cơ quan chức năng.",
             "en": "Swinhoe's Softshell Turtle is protected under Vietnam laws ... If you encounter this species being sold, please report it to environmental officials."
         },
         "other_names": {
-            "vi": "Rùa Hoàn Kiếm, Rùa Hồ Gươm, Giải Thượng Hải",
-            "en": ""
+            "vi": "Rùa Hoàn Kiếm, Rùa Hồ Gươm, Giải Thượng Hải.",
+            "en": "Update later."
         },
         "characteristics": {
-            "vi": "",
-            "en": ""
+            "vi": "Sẽ được cập nhật sau.",
+            "en": "Update later."
         },
         "reference_sources": {
             "vi": [
                 "Sách đỏ Việt Nam (2007)",
-                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)"
+                "Sách hướng dẫn định danh các loài rùa cạn và rùa nước ngọt Việt Nam (2022)",
+                "Website Sinh vật rừng Việt Nam vncreatures.net"
             ],
             "en": [
                 "Vietnam's Red Data Book (2007)",
-                "Freshwater turtles and tortoises identification guide (2022)"
+                "Freshwater turtles and tortoises identification guide (2022)",
+                "Website Vietnam Forest Creatures vncreatures.net"
             ]
         },
         "secondary_name": {
@@ -2968,20 +2968,20 @@
         },
         "taxonomy": {
             "class": {
-                "vi": "",
-                "en": ""
+                "vi": "Bò sát (Reptilia)",
+                "en": "Reptilia"
             },
             "order": {
-                "vi": "",
-                "en": ""
+                "vi": "Rùa (Testudinata)",
+                "en": "Testudinata"
             },
             "family": {
-                "vi": "",
-                "en": ""
+                "vi": "Họ rùa mai mềm/ ba ba (Trionychidae)",
+                "en": "Trionychidae"
             },
             "genus": {
-                "vi": "",
-                "en": ""
+                "vi": "Sẽ được cập nhật sau.",
+                "en": "Update later."
             }
         },
         "identification_images": [

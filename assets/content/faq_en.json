@@ -35,6 +35,10 @@
         {
             "question": "Can I use this app on a phone without an internet connection?",
             "answer": "No, the app only works when you have an internet connection to use the recognition feature."
+        },
+        {
+            "question": "When uploading images, will my images be stored on the system?",
+            "answer": "No, we directly input your images into the prediction model without storing them on the system. Only when you agree to contribute images on the confirmation page, we will save your images."
         }
     ]
 }

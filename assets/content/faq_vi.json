@@ -35,6 +35,10 @@
       {
         "question": "Tôi có thể sử dụng ứng dụng này trên điện thoại không có kết nối internet không?",
         "answer": "Không, ứng dụng chỉ hoạt động khi bạn có kết nối internet để sử dụng tính năng nhận diện."
+      },
+      {
+        "question": "Khi tải ảnh lên, ảnh của tôi có được lưu trên hệ thống không?",
+        "answer": "Không, chúng tôi đưa ảnh của bạn trực tiếp vào mô hình dự đoán chứ không lưu ảnh của bạn trên hệ thống. Chỉ khi bạn đồng ý đóng góp ảnh ở trang xác nhận thì chúng tôi mới lưu ảnh của bạn."
       }
     ]
   }
