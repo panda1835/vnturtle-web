@@ -1,39 +1,12 @@
-# Về chúng tôi
+# Giới thiệu về VNTurtle
 
-Chào mừng bạn đến với [Tên Ứng Dụng Của Bạn] - Ứng Dụng Bảo Vệ Rùa Nước Tại Việt Nam!
+Việt Nam là nước có sự đa dạng sinh học cao về rùa với 26 loài rùa cạn và rùa nước ngọt. Cả 26 loài đều đang trên bờ vực tuyệt chủng và được pháp luật Việt Nam bảo vệ nghiêm ngặt khỏi các hành vi nuôi nhốt và mua bán nếu không có giấy phép hợp pháp. Tuy nhiên thì ở Việt Nam, rùa lại đang được buôn bán trái phép và tràn lan ở chợ, vỉa hè, và khắp trên mạng xã hội. Đôi khi cả người bán và người mua không biết rằng mình đang vi phạm pháp luật.
 
+VNTurtle ra đời như một giải pháp công nghệ để góp phần vào công tác bảo tồn rùa ở Việt Nam. Sứ mệnh của VNTurtle là bảo vệ và bảo tồn rùa cạn và rùa nước ngọt ở Việt Nam thông qua sức mạnh của công nghệ và hành động từ cộng đồng. Ứng dụng sử dụng Trí tuệ nhân tạo để nhận diện các loài rùa cạn và rùa nước ngọt ở Việt Nam và cung cấp các thông tin bảo tồn của loài rùa đó nhằm giúp người dùng biết được về tình trạng nguy cấp và mức độ bảo vệ trong luật pháp của loài rùa mình bắt gặp. Từ đó có những hành động cụ thể và thiết thực để bảo vệ loài rùa đó. 
 
+VNTurtle là luận án tốt nghiệp đại học của bạn Lê Hoàng Phúc, sinh viên ngành Khoa học máy tính tại Đại Học Fulbright Việt Nam, khoá 2018-2023.
 
-## Sứ Mệnh Của Chúng Tôi
-
-Tại [Tên Ứng Dụng Của Bạn], sứ mệnh của chúng tôi rất rõ ràng: bảo vệ và bảo tồn rùa nước và rùa cạn tại Việt Nam thông qua sức mạnh của công nghệ và hành động từ cộng đồng. Chúng tôi đam mê bảo tồn những sinh vật tuyệt vời này cho thế hệ tương lai.
-
-## Câu Chuyện Của Chúng Tôi
-
-[Thêm một câu chuyện ngắn về việc ứng dụng ra đời như thế nào và tại sao. Chia sẻ động cơ cá nhân và hành trình của bạn trong việc tạo ra ứng dụng.]
-
-## Gặp Gỡ Đội Ngũ
-
-[Thêm thông tin về các thành viên chính của đội ngũ, vị trí công việc của họ và lý lịch ngắn gọn. Đặc biệt là nêu rõ kiến thức và kinh nghiệm của họ trong lĩnh vực bảo tồn động vật hoang dã, công nghệ hoặc các lĩnh vực liên quan.]
-
-## Đối Tác và Hợp Tác
-
-[Nêu rõ bất kỳ đối tác hoặc sự hợp tác nào với tổ chức, cơ quan chính phủ hoặc các chuyên gia đóng góp vào sự hiệu quả và uy tín của ứng dụng.]
+VNTurtle hợp tác cùng Chương trình Bảo tồn Rùa Châu Á (Asian Turtle Program) nhằm sử dụng dữ liệu ảnh để huấn luyện mô hình Trí tuệ nhân tạo và cố vấn những vấn đề liên quan đến bảo tồn rùa ở Việt Nam.
 
 
-## Cam Kết Về Sự Minh Bạch
-
-[Giải thích cam kết của bạn đối với việc làm cho ứng dụng hoạt động một cách trong suốt và cách xử lý dữ liệu của người dùng. Đảm bảo người dùng rằng sự đóng góp của họ làm thay đổi thực sự.]
-
-## Kế Hoạch Tương Lai
-
-[Chia sẻ tầm nhìn của bạn về tương lai của ứng dụng và các mục tiêu bạn định đạt được trong những năm tới. Hãy thông báo cho người dùng biết rằng ứng dụng của bạn ở đây để tồn tại lâu dài.]
-
-## Liên Hệ Với Chúng Tôi
-
-Chúng tôi rất mong nhận được phản hồi từ bạn! Nếu bạn có bất kỳ câu hỏi, đóng góp hoặc yêu cầu hợp tác, vui lòng liên hệ với chúng tôi:
-
-- Email: [Địa chỉ Email Của Bạn]
-- Facebook: [Liên kết đến Trang Facebook Của Bạn]
-- Twitter: [Liên kết đến Hồ sơ Twitter Của Bạn]
-- Instagram: [Liên kết đến Hồ sơ Instagram Của Bạn]
+Chúng tôi rất mong nhận được phản hồi từ bạn. Nếu bạn có bất kỳ câu hỏi, đóng góp hoặc yêu cầu hợp tác, vui lòng liên hệ với chúng tôi tại email: lehoangphuc1820@gmail.com

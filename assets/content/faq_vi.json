@@ -1,16 +1,16 @@
 {
     "FAQs": [
       {
-        "question": "Ứng dụng có hoạt động trực tuyến không?",
-        "answer": "Có, ứng dụng chỉ hoạt động khi bạn kết nối internet để sử dụng dịch vụ nhận diện."
+        "question": "Ứng dụng có hoạt động mà không cần Internet không?",
+        "answer": "Không, ứng dụng chỉ hoạt động khi bạn kết nối internet để sử dụng dịch vụ nhận diện."
       },
       {
         "question": "Ứng dụng này sử dụng trí tuệ nhân tạo để làm gì?",
-        "answer": "Ứng dụng sử dụng trí tuệ nhân tạo để nhận diện và phân biệt 26 loài rùa nước ngọt và rùa biển ở Việt Nam."
+        "answer": "Ứng dụng sử dụng trí tuệ nhân tạo để nhận diện và phân biệt 27 loài rùa cạn và rùa nước ngọt ở Việt Nam."
       },
       {
-        "question": "Tôi có thể sử dụng ứng dụng này để góp phần vào bảo tồn rùa không?",
-        "answer": "Có, ứng dụng giúp bạn nhận biết các loài rùa cạn và rùa nước ngọt, từ đó bạn có thể báo cáo quan sát của mình để góp phần vào bảo tồn rùa."
+        "question": "Ứng dụng này có thể được dùng để nhận diện rùa biển không?",
+        "answer": "Không, ứng dụng không thể nhận diện rùa biển. Ứng dụng chỉ có thể nhận diện 27 loài rùa cạn và rùa nước ngọt ở Việt Nam."
       },
       {
         "question": "Tôi cần phải đăng ký tài khoản để sử dụng ứng dụng này không?",
@@ -18,43 +18,11 @@
       },
       {
         "question": "Khi tải ảnh lên, ảnh của tôi có được lưu trên hệ thống không?",
-        "answer": "Không, chúng tôi đưa ảnh của bạn trực tiếp vào mô hình dự đoán chứ không lưu ảnh của bạn trên hệ thống. Chỉ khi bạn đồng ý đóng góp ảnh ở trang xác nhận thì chúng tôi mới lưu ảnh của bạn."
-      },
-      {
-        "question": "Ứng dụng sử dụng nguồn thông tin từ đâu?",
-        "answer": "Ứng dụng sử dụng thông tin từ các nguồn: \n\n - Tài liệu về luật của Trung tâm giáo dục thiên nhiên ENV..."
+        "answer": "Không, chúng tôi đưa ảnh của bạn trực tiếp vào mô hình dự đoán chứ không lưu ảnh của bạn trên hệ thống. Chỉ khi bạn đồng ý đóng góp ảnh ở trang xác nhận hoặc báo cáo khi ứng dụng không định danh được loài của bạn thì chúng tôi mới lưu ảnh của bạn."
       },
       {
         "question": "Công ước về buôn bán quốc tế các loài động, thực vật hoang dã, nguy cấp (CITES) là gì?",
         "answer": "Công ước CITES là điều ước quốc tế giữa Chính phủ của các quốc gia thành viên. Mục tiêu của Công ước này là đảm bảo hoạt động trao đổi, mua bán mẫu vật các loài động, thực vật hoang dã nguy cấp giữa các quốc gia không làm ảnh hưởng tới quần thể các loài này trong tự nhiên. Công ước CITES bao gồm:\n\n- Phụ lục I CITES: Danh mục các loài ĐVHD bị đe doạ tuyệt chủng, nghiêm cấm xuất khẩu, nhập khẩu, tái xuất khẩu, nhập nội từ biển và quá cảnh mẫu vật từ tự nhiên vì mục đích thương mại (được dịch và công bố tại Thông báo số 296/TB-CTVN-HTQT ngày 27/11/2019 của Cơ quan quản lý CITES Việt Nam).\n\n- Phụ lục II CITES: Danh mục các loài ĐVHD chưa bị đe doạ tuyệt chủng, nhưng có thể dẫn đến tuyệt chủng, nếu việc xuất khẩu, nhập khẩu, tái xuất khẩu, nhập nội từ biển và quá cảnh mẫu vật từ tự nhiên vì mục đích thương mại những loài này không được kiểm soát (được dịch và công bố tại Thông báo số 296/TB-CTVN-HTQT ngày 27/11/2019 của Cơ quan quản lý CITES Việt Nam).\n\n- Phụ lục III CITES: Danh mục các loài ĐVHD mà một số quốc gia xác định là đối tượng bảo vệ theo quy định của quốc gia đó nhằm mục tiêu ngăn chặn hoặc hạn chế tình trạng khai thác những loài này cũng như đòi hòi sự hỗ trợ của các quốc gia thành viên khác để kiểm soát hoạt động buôn bán quốc tế (được dịch và công bố tại Thông báo số 296/TB-CTVN-HTQT ngày 27/11/2019 của Cơ quan quản lý CITES Việt Nam).\n\n\n\nNguồn tham khảo: ENV - Hướng dẫn Thực thi pháp luật về Bảo vệ Động vật hoang dã 2022."
-      },
-      {
-        "question": "",
-        "answer": ""
-      },
-      {
-        "question": "",
-        "answer": ""
-      },
-      {
-        "question": "",
-        "answer": ""
-      },
-      {
-        "question": "",
-        "answer": ""
-      },
-      {
-        "question": "",
-        "answer": ""
-      },
-      {
-        "question": "",
-        "answer": ""
-      },
-      {
-        "question": "",
-        "answer": ""
       }
     ]
   }

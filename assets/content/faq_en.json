@@ -1,16 +1,16 @@
 {
     "FAQs": [
         {
-            "question": "Does the app work online?",
-            "answer": "Yes, the app only works when you are connected to the internet to use the recognition service."
+            "question": "Does the app work offline?",
+            "answer": "No, the app only works when you are connected to the internet to use the recognition service."
         },
         {
             "question": "What does this app use artificial intelligence for?",
-            "answer": "The app uses artificial intelligence to identify and distinguish 26 species of freshwater turtles and sea turtles in Vietnam."
+            "answer": "The app uses artificial intelligence to identify and distinguish 27 species of freshwater turtles and tortoises in Vietnam."
         },
         {
-            "question": "Can I use this app to contribute to turtle conservation?",
-            "answer": "Yes, the app helps you identify different species of terrestrial and freshwater turtles, and you can report your observations to contribute to turtle conservation."
+            "question": "Can this application be used to identify sea turtles?",
+            "answer": "No, the application cannot identify sea turtles. It can only identify 27 species of tortoises and freshwater turtles in Vietnam."
         },
         {
             "question": "Do I need to create an account to use this app?",
@@ -18,43 +18,11 @@
         },
         {
             "question": "When uploading images, will my images be stored on the system?",
-            "answer": "No, we directly input your images into the prediction model without storing them on the system. Only when you agree to contribute images on the confirmation page, we will save your images."
-        },
-        {
-            "question": "What are the sources of the information displayed in this app?",
-            "answer": "..."
+            "answer": "No, we directly input your images into the prediction model without storing them on the system. Only when you agree to contribute images on the confirmation page or report the image where the identification system fail to identify the turtle, we will save your images."
         },
         {
             "question": "What is the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)?",
             "answer": "It is an international agreement between its member governments. Its aim is to ensure that international trade in specimens of endangered wild animals and plants does not threaten their survival in nature. It includes:\n\n- CITES Appendix I: List of endangered species that are threatened with extinction and are prohibited for export, import, re-export, re-import, and introduction from the sea, as well as transit of natural specimens for commercial purposes (translated and announced in Vietnam CITES Management Authority's Notice No. 296/TB- CTVN-HTQT dated November 27, 2019).\n\n- CITES Appendix II: List of vulnerable species that are currently not threatened with extinction, but might become extinct without control of the export, import, re-export, introduction from the sea, and transit of natural specimens thereof for commercial purposes (translated and announced in Vietnam CITES Management Authority's Notice No. 296/TB-CTVN-HTQT dated November 27, 2019).\n\n- CITES Appendix III: List of wildlife species that some countries identify as being subject to regulation within their jurisdictions for the purpose of preventing or restricting exploitation, and as requiring the co-operation of other parties in the control of trade (translated and announced in Vietnam CITES Management Authority's Notice No. 296/TB-CTVN-HTQT dated November 27, 2019).\n\n\n\nReference documents: ENV's Guidance on the Application of Wildlife Protection Law - 2021"
-        },
-        {
-            "question": "",
-            "answer": ""
-        },
-        {
-            "question": "",
-            "answer": ""
-        },
-        {
-            "question": "",
-            "answer": ""
-        },
-        {
-            "question": "",
-            "answer": ""
-        },
-        {
-            "question": "",
-            "answer": ""
-        },
-        {
-            "question": "",
-            "answer": ""
-        },
-        {
-            "question": "",
-            "answer": ""
         }
     ]
 }

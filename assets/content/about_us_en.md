@@ -1,28 +1,12 @@
-# About Us
-Welcome to [Your App Name] - Protecting Freshwater Turtles App in Vietnam!
+## About VNTurtle
 
-## Our Mission
-At [Your App Name], our mission is clear: to protect and conserve freshwater and terrestrial turtles in Vietnam through the power of technology and community action. We are passionate about conserving these amazing creatures for future generations.
+Vietnam is a country with a high biodiversity of turtles, including 26 species of tortoises and freshwater turtles. All 26 species are currently on the brink of extinction and are strictly protected by Vietnamese law against captive breeding and trading without proper legal permits. However, in Vietnam, turtles are being illegally traded in markets, sidewalks, and on social media. Sometimes both sellers and buyers are unaware that they are violating the law.
 
-## Our Story
-[Add a brief story about how the app came to be and why. Share your personal motivation and journey in creating the app.]
+VNTurtle was created as a technological solution to contribute to turtle conservation in Vietnam. Its mission is to protect and conserve tortoises and freshwater turtles in Vietnam through the power of technology and community action. The application utilizes Artificial Intelligence to identify the different species of turtles in Vietnam and provides conservation information about each species, helping users understand the conservation status and legal protection level of the turtles they encounter. From there, specific and practical actions can be taken to protect those turtle species.
 
-## Meet the Team
-[Provide information about key members of the team, their roles, and brief biographies. Highlight their knowledge and experience in the field of wildlife conservation, technology, or related areas.]
+VNTurtle is the undergraduate thesis of Mr. Le Hoang Phuc, a Computer Science student at Fulbright University Vietnam, class of 2018-2023.
 
-## Partnerships and Collaborations
-[Highlight any partnerships or collaborations with organizations, government agencies, or experts that contribute to the effectiveness and credibility of the app.]
+VNTurtle collaborates with the Asian Turtle Program to use image data for training the Artificial Intelligence system and to consult on turtle conservation issues in Vietnam.
 
-## Commitment to Transparency
-[Explain your commitment to operating the app in a transparent manner and how user data is handled. Assure users that their contributions make a genuine impact.]
+We greatly appreciate your feedback. If you have any questions, contributions, or collaboration requests, please contact us at lehoangphuc1820@gmail.com.
 
-## Future Plans
-[Share your vision for the future of the app and the goals you intend to achieve in the coming years. Let users know that your app is here for the long term.]
-
-## Contact Us
-We would love to hear from you! If you have any questions, contributions, or collaboration requests, please contact us:
-
-- Email: [Your Email Address]
-- Facebook: [Link to Your Facebook Page]
-- Twitter: [Link to Your Twitter Profile]
-- Instagram: [Link to Your Instagram Profile]
