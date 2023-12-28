@@ -1,7 +1,5 @@
 # Hướng dẫn sử dụng
 
-⚠️ Ứng dụng hiện đang ở phiên bản beta và chỉ nhằm mục đích chia sẻ với một số cá nhân cụ thể để thu thập phản hồi. Xin lưu ý rằng vẫn còn một số phần của ứng dụng chưa hoàn thiện. Chúng tôi kính mong bạn không chia sẻ ứng dụng.
-
 Chụp hoặc tải lên một bức ảnh của rùa bằng cách nhấp vào nút Tải ảnh lên, ứng dụng sẽ giúp bạn định danh loài rùa trong hình. 
 
 Lưu ý rằng:

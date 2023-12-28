@@ -1,7 +1,5 @@
 # Manual Guide
 
-⚠️ The app is currently in beta version and is intended for sharing with specific individuals to gather feedback. Please note that there are still some parts of the app that have not been completed. We kindly request that you refrain from sharing it.
-
 Take or upload a photo of a turtle by clicking **Upload an image** button and the AI system will identify the turtle in the image. 
 
 Note that:
